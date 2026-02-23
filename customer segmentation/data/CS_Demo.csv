@@ -1,0 +1,1001 @@
+customer_id,age,gender,location,membership_start_date,average_purchase_value,purchase_frequency_per_month,last_purchase_date,product_preference,preferred_channel,store_visit_frequency,days_since_last_visit,product_segment,,Mobile
+CUST1000,58,Male,East Jessetown,30-08-2020,375.94,2.6,21-10-2023,Gym Gear,In-Store,17,108,Casual Gym-Goer,,9.18281E+11
+CUST1001,20,Male,Herrerafurt,21-01-2025,124.95,5.2,18-02-2025,Running Shoes,In-Store,20,107,Casual Gym-Goer,,9.18281E+11
+CUST1002,32,Female,Shawhaven,06-01-2024,153.53,8.7,13-04-2024,Gym Gear,Online,10,55,General Buyer,,9.18281E+11
+CUST1003,39,Male,Herrerafurt,17-09-2020,202.37,3.7,02-05-2023,Supplements,Online,1,137,Health Conscious Buyer,,9.18281E+11
+CUST1004,25,Female,Cassandraton,17-06-2023,284.98,8.3,24-02-2025,Training Wear,Online,18,17,Casual Gym-Goer,,9.18281E+11
+CUST1005,20,Other,Daviston,11-09-2020,391.07,9.9,27-09-2023,Gym Gear,In-Store,12,162,Casual Gym-Goer,,9.18281E+11
+CUST1006,41,Male,Lake Larry,22-02-2022,190.53,6.8,16-01-2025,Running Shoes,In-Store,17,41,Casual Gym-Goer,,9.18281E+11
+CUST1007,47,Female,Danielchester,25-06-2022,494.97,6.5,26-04-2025,Training Wear,In-Store,10,14,General Buyer,,9.18281E+11
+CUST1008,32,Male,New Mariotown,26-03-2021,212.56,0.8,26-09-2022,Training Wear,Online,6,101,General Buyer,,9.18281E+11
+CUST1009,59,Female,Jacquelineland,13-02-2025,147.14,2.6,09-05-2025,Training Wear,Online,18,149,Casual Gym-Goer,,9.18281E+11
+CUST1010,43,Female,Coxberg,25-10-2023,498.72,1.6,18-02-2025,Yoga Accessories,In-Store,1,39,General Buyer,,9.18281E+11
+CUST1011,58,Male,Davidstad,03-09-2021,222.64,0.8,05-09-2022,Yoga Accessories,Online,16,141,General Buyer,,9.18281E+11
+CUST1012,18,Other,West Juan,27-09-2021,74.98,8.9,20-02-2025,Supplements,Online,3,40,Health Conscious Buyer,,9.18281E+11
+CUST1013,47,Male,West Juan,12-11-2021,440.41,2.8,14-08-2023,Training Wear,In-Store,16,160,Casual Gym-Goer,,9.18281E+11
+CUST1014,37,Other,Mortonside,27-07-2020,312.31,1.7,04-02-2022,Gym Gear,In-Store,19,4,Casual Gym-Goer,,9.18281E+11
+CUST1015,25,Female,New Stephanie,09-03-2023,134.94,2.6,07-12-2024,Training Wear,In-Store,2,17,General Buyer,,9.18281E+11
+CUST1016,52,Male,Ramirezstad,21-06-2022,336.68,9.5,09-08-2023,Gym Gear,Online,16,108,Casual Gym-Goer,,9.18281E+11
+CUST1017,31,Other,North Matthewberg,17-09-2021,370.37,2.2,22-01-2025,Supplements,Online,20,132,Fitness Enthusiast,,9.18281E+11
+CUST1018,46,Male,South Patrickmouth,11-04-2021,127.85,3.5,26-11-2022,Training Wear,In-Store,18,18,Casual Gym-Goer,,9.18281E+11
+CUST1019,63,Other,Lake Roberto,08-09-2020,129.89,9.1,09-09-2024,Supplements,In-Store,16,171,Health Conscious Buyer,,9.18281E+11
+CUST1020,49,Male,East Nicholasfurt,02-04-2022,83.51,9.4,06-02-2023,Training Wear,Online,7,104,General Buyer,,9.18281E+11
+CUST1021,30,Male,New Kellystad,10-04-2024,336.31,3.7,06-01-2025,Yoga Accessories,Online,1,165,General Buyer,,9.18281E+11
+CUST1022,24,Male,New Jeffrey,15-12-2022,369.54,8,03-12-2023,Running Shoes,In-Store,6,114,Marathon Trainer,,9.18281E+11
+CUST1023,26,Female,Adamsborough,03-04-2022,153.7,2.6,09-05-2022,Running Shoes,Online,17,166,Casual Gym-Goer,,9.18281E+11
+CUST1024,52,Male,Herrerafurt,01-01-2022,464.66,8.5,11-09-2023,Gym Gear,Online,15,102,Casual Gym-Goer,,9.18281E+11
+CUST1025,21,Male,Samuelhaven,24-02-2023,21.03,4,01-05-2024,Yoga Accessories,Online,13,142,General Buyer,,9.18281E+11
+CUST1026,60,Other,Taylorburgh,12-12-2020,94.3,3.1,28-04-2023,Running Shoes,In-Store,10,149,Casual Gym-Goer,,9.18281E+11
+CUST1027,48,Other,South Todd,06-05-2023,95.57,9.6,15-09-2024,Running Shoes,In-Store,2,172,Casual Gym-Goer,,9.18281E+11
+CUST1028,33,Female,Port Jesseville,09-09-2024,471.97,5.8,11-02-2025,Training Wear,In-Store,19,168,Casual Gym-Goer,,9.18281E+11
+CUST1029,55,Other,North Sarabury,01-12-2024,171.86,2.8,03-02-2025,Supplements,In-Store,8,171,Health Conscious Buyer,,9.18281E+11
+CUST1030,59,Female,Gomezchester,04-08-2020,171.77,7.6,28-07-2021,Running Shoes,In-Store,14,144,Casual Gym-Goer,,9.18281E+11
+CUST1031,24,Male,Port Richard,31-07-2022,122.31,2.8,04-05-2023,Supplements,In-Store,7,40,Health Conscious Buyer,,9.18281E+11
+CUST1032,46,Other,Lake Lisaport,13-08-2022,165.21,9.8,11-10-2022,Training Wear,In-Store,17,169,Casual Gym-Goer,,9.18281E+11
+CUST1033,24,Male,Lake Nicoleview,12-04-2021,75.41,1.2,25-10-2023,Training Wear,In-Store,8,53,General Buyer,,9.18281E+11
+CUST1034,63,Female,West Donald,21-01-2024,350,8.6,15-10-2024,Training Wear,Online,8,13,General Buyer,,9.18281E+11
+CUST1035,23,Other,West Elizabeth,10-01-2023,418.09,0.6,17-11-2024,Supplements,In-Store,20,41,Fitness Enthusiast,,9.18281E+11
+CUST1036,65,Female,Saramouth,15-09-2024,358.72,5.7,29-10-2024,Running Shoes,In-Store,4,94,Marathon Trainer,,9.18281E+11
+CUST1037,55,Other,Jacquelineland,20-08-2023,226.3,0.6,09-11-2024,Supplements,In-Store,11,63,Health Conscious Buyer,,9.18281E+11
+CUST1038,60,Male,West Allison,22-12-2021,394.46,8.9,21-01-2023,Yoga Accessories,In-Store,7,45,General Buyer,,9.18281E+11
+CUST1039,44,Male,East Lydiamouth,25-09-2020,373.55,3.5,10-06-2024,Yoga Accessories,In-Store,8,179,General Buyer,,9.18281E+11
+CUST1040,24,Female,Lake Debra,16-05-2020,432.12,2.4,17-10-2024,Yoga Accessories,Online,9,58,General Buyer,,9.18281E+11
+CUST1041,32,Male,Stewartland,08-12-2024,112.7,3.4,20-04-2025,Running Shoes,Online,11,102,Casual Gym-Goer,,9.18281E+11
+CUST1042,61,Other,North John,13-01-2022,470.83,1.3,01-08-2023,Supplements,In-Store,18,67,Fitness Enthusiast,,9.18281E+11
+CUST1043,20,Male,North Susan,10-01-2024,228.59,7.3,04-03-2024,Supplements,Online,19,29,Health Conscious Buyer,,9.18281E+11
+CUST1044,42,Other,Jasonfort,02-03-2023,142.27,7.1,01-07-2024,Running Shoes,In-Store,11,170,Casual Gym-Goer,,9.18281E+11
+CUST1045,39,Other,New Mariotown,02-06-2021,338.43,1.4,24-06-2024,Supplements,Online,13,178,Fitness Enthusiast,,9.18281E+11
+CUST1046,36,Other,Ramirezstad,30-11-2022,112.08,6.7,25-01-2025,Yoga Accessories,In-Store,19,103,General Buyer,,9.18281E+11
+CUST1047,53,Male,East Nathaniel,27-12-2022,157.72,4.4,21-09-2024,Training Wear,Online,14,172,Casual Gym-Goer,,9.18281E+11
+CUST1048,31,Other,North Richardmouth,18-02-2023,400.99,9.6,04-11-2024,Gym Gear,In-Store,9,162,General Buyer,,9.18281E+11
+CUST1049,57,Female,Herrerafurt,15-11-2022,412.84,7.6,25-03-2025,Supplements,In-Store,6,11,Fitness Enthusiast,,9.18281E+11
+CUST1050,33,Female,South David,10-06-2021,427.87,0.9,04-04-2022,Yoga Accessories,In-Store,12,62,General Buyer,,9.18281E+11
+CUST1051,27,Other,East Mikeburgh,08-12-2023,22.66,7.6,07-05-2025,Running Shoes,Online,7,178,Casual Gym-Goer,,9.18281E+11
+CUST1052,51,Female,Lisatown,01-08-2023,287.55,9.2,08-01-2025,Running Shoes,Online,4,170,Marathon Trainer,,9.18281E+11
+CUST1053,51,Other,North Susan,02-11-2021,172.3,7.6,15-06-2024,Yoga Accessories,Online,17,40,General Buyer,,9.18281E+11
+CUST1054,65,Female,Leeville,14-03-2025,144.41,2.6,12-04-2025,Supplements,Online,20,112,Health Conscious Buyer,,9.18281E+11
+CUST1055,22,Other,Teresaburgh,24-10-2023,132.56,3.5,22-12-2024,Training Wear,In-Store,4,98,General Buyer,,9.18281E+11
+CUST1056,62,Male,Lake Lisaport,12-05-2020,122.7,4.3,12-12-2022,Supplements,Online,13,107,Health Conscious Buyer,,9.18281E+11
+CUST1057,42,Other,Bassport,19-10-2022,29.38,8.8,10-09-2023,Training Wear,Online,15,90,Casual Gym-Goer,,9.18281E+11
+CUST1058,37,Female,North Micheleland,06-01-2024,278.35,7.4,31-03-2025,Training Wear,In-Store,15,111,Casual Gym-Goer,,9.18281E+11
+CUST1059,49,Male,Martinezbury,06-02-2023,181.34,6.9,28-01-2025,Yoga Accessories,In-Store,14,159,General Buyer,,9.18281E+11
+CUST1060,52,Male,West Andrewside,12-02-2024,304.11,6.7,20-01-2025,Running Shoes,Online,4,46,Marathon Trainer,,9.18281E+11
+CUST1061,21,Female,Samuelhaven,05-03-2022,177.13,4.7,07-05-2024,Supplements,Online,8,107,Health Conscious Buyer,,9.18281E+11
+CUST1062,34,Male,North Richardmouth,20-05-2024,29.3,5.5,24-03-2025,Supplements,In-Store,20,166,Health Conscious Buyer,,9.18281E+11
+CUST1063,20,Male,South Patrickmouth,20-10-2021,115.69,0.4,08-08-2024,Gym Gear,In-Store,4,29,General Buyer,,9.18281E+11
+CUST1064,54,Male,Shieldston,29-01-2021,355.74,7.7,29-06-2023,Gym Gear,In-Store,5,27,General Buyer,,9.18281E+11
+CUST1065,55,Male,New Stephanie,28-09-2024,296.38,9.1,05-02-2025,Yoga Accessories,Online,6,176,General Buyer,,9.18281E+11
+CUST1066,58,Male,Lake Chad,25-02-2021,354.65,3.2,19-08-2024,Training Wear,In-Store,18,88,Casual Gym-Goer,,9.18281E+11
+CUST1067,52,Female,Stewartland,10-05-2022,197.87,5.2,20-03-2025,Supplements,In-Store,13,27,Health Conscious Buyer,,9.18281E+11
+CUST1068,45,Female,Sarahborough,31-12-2022,447.96,4.7,14-12-2023,Gym Gear,Online,5,166,General Buyer,,9.18281E+11
+CUST1069,35,Other,Port Richard,19-01-2022,391.83,4.8,04-09-2022,Training Wear,Online,10,22,General Buyer,,9.18281E+11
+CUST1070,35,Female,South Patrickmouth,25-07-2020,380.23,5.8,15-12-2020,Yoga Accessories,Online,0,83,General Buyer,,9.18281E+11
+CUST1071,29,Female,Juliechester,10-06-2022,190.32,2.7,17-06-2024,Supplements,Online,17,48,Health Conscious Buyer,,9.18281E+11
+CUST1072,23,Male,West Juan,23-12-2020,215.09,5.6,06-11-2024,Gym Gear,Online,20,114,Casual Gym-Goer,,9.18281E+11
+CUST1073,19,Male,Port Colleenhaven,19-11-2023,126.37,7,22-03-2025,Supplements,Online,15,88,Health Conscious Buyer,,9.18281E+11
+CUST1074,45,Other,Saramouth,03-04-2025,178.78,7.1,12-04-2025,Supplements,Online,8,49,Health Conscious Buyer,,9.18281E+11
+CUST1075,38,Male,North Cynthiaview,16-08-2023,277.21,7.7,02-09-2024,Gym Gear,In-Store,6,70,General Buyer,,9.18281E+11
+CUST1076,64,Other,Evanmouth,04-10-2023,271.83,3,10-04-2024,Running Shoes,In-Store,9,45,Casual Gym-Goer,,9.18281E+11
+CUST1077,37,Male,Lake Lisaport,12-08-2021,276.38,2.9,27-05-2024,Running Shoes,Online,4,125,Casual Gym-Goer,,9.18281E+11
+CUST1078,24,Male,North Beth,28-05-2020,156.48,4.9,24-04-2021,Supplements,In-Store,1,122,Health Conscious Buyer,,9.18281E+11
+CUST1079,25,Male,New Jeffrey,22-12-2023,256.04,5.9,08-06-2024,Running Shoes,In-Store,4,77,Marathon Trainer,,9.18281E+11
+CUST1080,23,Male,Port Jesseville,08-11-2021,287.88,4.3,10-04-2025,Training Wear,In-Store,16,113,Casual Gym-Goer,,9.18281E+11
+CUST1081,37,Other,West Elizabeth,06-10-2024,166.58,6.3,04-04-2025,Training Wear,In-Store,6,67,General Buyer,,9.18281E+11
+CUST1082,60,Male,South Noah,14-10-2020,135.14,5.6,27-11-2022,Gym Gear,In-Store,13,152,Casual Gym-Goer,,9.18281E+11
+CUST1083,48,Female,Lake Debra,23-05-2021,131.11,7.1,02-05-2023,Yoga Accessories,In-Store,7,160,General Buyer,,9.18281E+11
+CUST1084,55,Other,Wilkersonmouth,29-06-2021,224.07,5.5,24-11-2024,Gym Gear,Online,4,42,General Buyer,,9.18281E+11
+CUST1085,37,Other,North Cynthiaview,23-04-2024,415.64,9.2,07-01-2025,Yoga Accessories,In-Store,14,179,General Buyer,,9.18281E+11
+CUST1086,43,Female,Mortonside,16-11-2024,279.19,4.5,04-03-2025,Training Wear,In-Store,13,154,Casual Gym-Goer,,9.18281E+11
+CUST1087,34,Male,Herrerafurt,21-01-2023,129.88,6.8,08-12-2024,Training Wear,In-Store,8,44,General Buyer,,9.18281E+11
+CUST1088,48,Other,Lake Debbie,26-08-2024,232.27,2.9,07-02-2025,Training Wear,Online,20,23,Casual Gym-Goer,,9.18281E+11
+CUST1089,48,Female,Lake Crystalbury,07-01-2025,179.99,6.8,03-04-2025,Gym Gear,Online,13,73,Casual Gym-Goer,,9.18281E+11
+CUST1090,60,Female,Evanmouth,17-09-2021,284.05,4.7,15-11-2024,Supplements,Online,10,103,Health Conscious Buyer,,9.18281E+11
+CUST1091,50,Male,Stewartland,24-05-2024,437.3,4.7,14-11-2024,Running Shoes,In-Store,16,127,Casual Gym-Goer,,9.18281E+11
+CUST1092,58,Female,Evanmouth,25-07-2022,44.77,2.8,13-08-2023,Gym Gear,Online,14,124,Casual Gym-Goer,,9.18281E+11
+CUST1093,25,Male,South Dianeshire,19-09-2022,312.26,2.5,06-12-2024,Gym Gear,Online,17,104,Casual Gym-Goer,,9.18281E+11
+CUST1094,23,Male,Port Keith,24-06-2024,241.49,1.4,22-02-2025,Gym Gear,Online,9,69,General Buyer,,9.18281E+11
+CUST1095,44,Female,North Richardmouth,24-05-2022,136.99,5.6,24-07-2023,Yoga Accessories,In-Store,19,34,General Buyer,,9.18281E+11
+CUST1096,22,Female,Hoffmanville,06-02-2024,399.2,4.3,06-04-2024,Training Wear,Online,0,76,General Buyer,,9.18281E+11
+CUST1097,55,Other,Stewartland,15-10-2022,255.03,1.7,14-10-2023,Training Wear,Online,11,139,Casual Gym-Goer,,9.18281E+11
+CUST1098,42,Female,West Natashaport,02-09-2022,437.41,9.8,05-02-2024,Gym Gear,Online,7,105,General Buyer,,9.18281E+11
+CUST1099,20,Female,North Cynthiaview,29-01-2023,247.03,9.2,03-06-2023,Yoga Accessories,Online,20,126,General Buyer,,9.18281E+11
+CUST1100,20,Male,Mortonside,14-07-2021,483.37,3.5,05-03-2022,Running Shoes,Online,3,116,Casual Gym-Goer,,9.18281E+11
+CUST1101,18,Other,Jacquelineland,29-04-2022,216.79,6.6,15-12-2023,Gym Gear,In-Store,15,67,Casual Gym-Goer,,9.18281E+11
+CUST1102,39,Other,East Mikeburgh,28-08-2021,210.79,1,29-08-2024,Supplements,Online,10,124,Health Conscious Buyer,,9.18281E+11
+CUST1103,52,Male,New Brooke,06-03-2022,52.84,6.4,13-06-2022,Supplements,In-Store,2,25,Health Conscious Buyer,,9.18281E+11
+CUST1104,58,Other,New Kellystad,20-11-2023,232.97,7,01-10-2024,Running Shoes,In-Store,10,75,Casual Gym-Goer,,9.18281E+11
+CUST1105,40,Female,New David,05-03-2023,89.87,5.4,25-02-2025,Training Wear,In-Store,5,156,General Buyer,,9.18281E+11
+CUST1106,42,Other,Davidstad,23-11-2023,135.6,9.1,10-01-2024,Gym Gear,In-Store,14,117,Casual Gym-Goer,,9.18281E+11
+CUST1107,34,Other,East Jill,12-02-2022,451.48,4.8,26-11-2023,Supplements,In-Store,2,88,Fitness Enthusiast,,9.18281E+11
+CUST1108,55,Female,Sarahborough,03-09-2023,481.77,7,22-04-2025,Yoga Accessories,Online,6,123,General Buyer,,9.18281E+11
+CUST1109,24,Male,Samuelhaven,10-07-2020,294.52,5.8,04-10-2023,Supplements,In-Store,12,144,Health Conscious Buyer,,9.18281E+11
+CUST1110,61,Other,Lisatown,31-05-2024,457.1,7.5,02-06-2024,Supplements,In-Store,19,56,Fitness Enthusiast,,9.18281E+11
+CUST1111,58,Male,New Brooke,08-05-2023,140.3,7.6,25-12-2023,Gym Gear,In-Store,20,79,Casual Gym-Goer,,9.18281E+11
+CUST1112,46,Male,Lake Leeton,04-09-2023,195.13,1.5,25-07-2024,Supplements,Online,13,33,Health Conscious Buyer,,9.18281E+11
+CUST1113,52,Female,South Todd,08-12-2024,260.86,2.9,02-05-2025,Gym Gear,Online,15,75,Casual Gym-Goer,,9.18281E+11
+CUST1114,65,Female,Port Keith,01-01-2025,244.8,0.9,28-04-2025,Gym Gear,Online,17,101,Casual Gym-Goer,,9.18281E+11
+CUST1115,18,Female,Port Richard,27-03-2022,79.32,3.8,23-04-2024,Supplements,Online,20,27,Health Conscious Buyer,,9.18281E+11
+CUST1116,61,Male,North Richardmouth,23-03-2022,32.01,8.9,20-05-2023,Training Wear,Online,19,16,Casual Gym-Goer,,9.18281E+11
+CUST1117,58,Female,Bassport,25-01-2024,165.05,4.2,05-02-2025,Gym Gear,In-Store,1,126,General Buyer,,9.18281E+11
+CUST1118,25,Male,East Courtneychester,09-08-2020,445.88,1.5,30-11-2023,Yoga Accessories,Online,17,39,General Buyer,,9.18281E+11
+CUST1119,44,Other,New Kellystad,21-03-2023,420.17,6.2,08-12-2024,Supplements,In-Store,11,113,Fitness Enthusiast,,9.18281E+11
+CUST1120,33,Female,New Kellystad,05-10-2021,490.85,3.8,02-05-2025,Supplements,In-Store,12,31,Fitness Enthusiast,,9.18281E+11
+CUST1121,47,Male,Stewartland,02-05-2024,121.81,6.5,24-04-2025,Running Shoes,In-Store,10,32,Casual Gym-Goer,,9.18281E+11
+CUST1122,54,Male,Ericmouth,11-06-2021,418.31,5.6,02-02-2024,Training Wear,In-Store,7,37,General Buyer,,9.18281E+11
+CUST1123,56,Male,South Aaron,25-11-2024,432.03,1.6,30-11-2024,Gym Gear,Online,5,6,General Buyer,,9.18281E+11
+CUST1124,26,Male,West Allison,17-09-2023,399.19,2.5,19-12-2024,Supplements,In-Store,5,32,Fitness Enthusiast,,9.18281E+11
+CUST1125,65,Female,South Todd,27-02-2025,74.55,0.8,02-05-2025,Yoga Accessories,Online,16,115,General Buyer,,9.18281E+11
+CUST1126,50,Male,South David,03-08-2020,40.82,7.9,20-04-2021,Training Wear,Online,14,7,Casual Gym-Goer,,9.18281E+11
+CUST1127,21,Female,New Jeffrey,02-01-2024,224.61,1.3,16-04-2024,Yoga Accessories,In-Store,2,37,General Buyer,,9.18281E+11
+CUST1128,22,Male,South Aaron,14-04-2024,319.67,5.9,02-09-2024,Supplements,Online,19,116,Fitness Enthusiast,,9.18281E+11
+CUST1129,50,Other,New David,14-10-2020,67.61,7.1,31-12-2022,Training Wear,In-Store,13,58,Casual Gym-Goer,,9.18281E+11
+CUST1130,44,Female,Gomezchester,01-08-2023,211.39,7.4,11-04-2024,Supplements,Online,10,95,Health Conscious Buyer,,9.18281E+11
+CUST1131,27,Other,North Richardmouth,27-02-2022,52.22,8.4,03-02-2024,Running Shoes,Online,3,95,Casual Gym-Goer,,9.18281E+11
+CUST1132,26,Other,Lake Roberto,20-02-2023,301.5,5.7,28-07-2024,Supplements,In-Store,13,170,Fitness Enthusiast,,9.18281E+11
+CUST1133,45,Other,Lisatown,01-08-2023,484.83,6.1,04-03-2024,Supplements,In-Store,18,39,Fitness Enthusiast,,9.18281E+11
+CUST1134,60,Female,Coxberg,11-12-2023,426.69,3.6,23-06-2024,Training Wear,Online,3,146,General Buyer,,9.18281E+11
+CUST1135,32,Female,Rodneyside,20-01-2021,487.78,8.2,20-01-2025,Training Wear,In-Store,19,177,Casual Gym-Goer,,9.18281E+11
+CUST1136,35,Male,Adamsborough,10-07-2020,151.17,7.7,09-02-2025,Supplements,Online,0,36,Health Conscious Buyer,,9.18281E+11
+CUST1137,54,Other,New Jeffrey,19-10-2020,53.4,7.5,11-10-2023,Running Shoes,In-Store,16,107,Casual Gym-Goer,,9.18281E+11
+CUST1138,47,Female,South Noah,07-04-2022,197.63,7.3,10-01-2025,Training Wear,In-Store,1,158,General Buyer,,9.18281E+11
+CUST1139,21,Other,Cassandraton,10-12-2020,150.61,6.7,14-04-2021,Yoga Accessories,Online,13,131,General Buyer,,9.18281E+11
+CUST1140,25,Female,New David,15-08-2020,73.23,6.8,22-09-2022,Training Wear,Online,16,11,Casual Gym-Goer,,9.18281E+11
+CUST1141,32,Female,North Susan,20-01-2022,46.3,2.2,20-02-2022,Gym Gear,In-Store,8,30,General Buyer,,9.18281E+11
+CUST1142,18,Female,North Cynthiaview,27-08-2021,226.71,1.5,01-09-2022,Training Wear,In-Store,16,171,Casual Gym-Goer,,9.18281E+11
+CUST1143,40,Male,West Andrewside,07-06-2021,433.65,0.6,12-06-2023,Running Shoes,Online,2,147,Casual Gym-Goer,,9.18281E+11
+CUST1144,45,Other,New Jeffrey,01-05-2021,360.56,4.3,24-09-2023,Running Shoes,Online,0,43,Casual Gym-Goer,,9.18281E+11
+CUST1145,57,Female,East Mikeburgh,19-03-2022,461.49,1.1,10-03-2024,Running Shoes,In-Store,13,134,Casual Gym-Goer,,9.18281E+11
+CUST1146,23,Female,New Stephanie,16-07-2022,377.99,2.4,09-02-2024,Gym Gear,In-Store,16,135,Casual Gym-Goer,,9.18281E+11
+CUST1147,50,Male,Lake Rebeccaside,14-10-2021,187.7,7.3,12-05-2024,Gym Gear,In-Store,3,50,General Buyer,,9.18281E+11
+CUST1148,29,Other,New Jessica,01-05-2021,384.9,6.6,21-08-2024,Gym Gear,Online,14,148,Casual Gym-Goer,,9.18281E+11
+CUST1149,46,Other,Mooreport,01-10-2021,328.64,9.9,27-01-2023,Supplements,Online,4,120,Fitness Enthusiast,,9.18281E+11
+CUST1150,46,Other,East Nathaniel,11-04-2021,402.24,6,26-09-2023,Supplements,In-Store,9,9,Fitness Enthusiast,,9.18281E+11
+CUST1151,21,Female,Teresaburgh,29-07-2020,56.83,8.7,25-03-2023,Running Shoes,Online,14,10,Casual Gym-Goer,,9.18281E+11
+CUST1152,46,Other,Lake Debbie,03-04-2025,110.35,6.1,05-05-2025,Training Wear,In-Store,1,87,General Buyer,,9.18281E+11
+CUST1153,63,Male,Mortonside,21-07-2023,330.14,0.6,24-05-2024,Yoga Accessories,Online,16,40,General Buyer,,9.18281E+11
+CUST1154,41,Female,Teresaburgh,17-01-2022,205.96,7.8,15-05-2022,Training Wear,In-Store,20,16,Casual Gym-Goer,,9.18281E+11
+CUST1155,39,Male,Rodneyside,04-06-2022,345.62,3,09-11-2022,Training Wear,In-Store,10,169,General Buyer,,9.18281E+11
+CUST1156,27,Female,New Stephanie,03-12-2022,484.49,7,09-06-2023,Yoga Accessories,In-Store,19,21,General Buyer,,9.18281E+11
+CUST1157,37,Other,Samuelhaven,04-03-2025,328.88,3.4,07-03-2025,Gym Gear,In-Store,20,130,Casual Gym-Goer,,9.18281E+11
+CUST1158,41,Male,Brandtside,24-04-2023,168.26,9.5,10-06-2024,Supplements,Online,6,35,Health Conscious Buyer,,9.18281E+11
+CUST1159,27,Male,Port Colleenhaven,01-01-2024,425.33,1.2,14-10-2024,Training Wear,In-Store,10,158,General Buyer,,9.18281E+11
+CUST1160,26,Other,Samuelhaven,11-12-2020,94.04,2,31-03-2025,Training Wear,In-Store,14,93,Casual Gym-Goer,,9.18281E+11
+CUST1161,61,Other,East Courtneychester,06-04-2023,485.4,6.2,15-04-2023,Yoga Accessories,In-Store,17,120,General Buyer,,9.18281E+11
+CUST1162,30,Female,North Amandahaven,07-12-2023,474.62,9.8,21-12-2024,Yoga Accessories,Online,12,107,General Buyer,,9.18281E+11
+CUST1163,28,Male,Port Jacobland,03-04-2021,86.43,2.7,05-02-2023,Yoga Accessories,Online,17,132,General Buyer,,9.18281E+11
+CUST1164,25,Female,Cassandraton,10-06-2023,386.3,2.9,15-10-2024,Training Wear,In-Store,13,56,Casual Gym-Goer,,9.18281E+11
+CUST1165,46,Female,East Jessetown,08-04-2024,219.15,4.1,04-08-2024,Supplements,In-Store,12,95,Health Conscious Buyer,,9.18281E+11
+CUST1166,32,Male,New Mariotown,24-01-2024,466.8,8.4,08-06-2024,Supplements,In-Store,4,120,Fitness Enthusiast,,9.18281E+11
+CUST1167,62,Male,Evanmouth,18-10-2024,358.66,4.6,30-01-2025,Running Shoes,In-Store,0,38,Casual Gym-Goer,,9.18281E+11
+CUST1168,53,Other,Port Jacobland,08-12-2024,273.33,1.3,07-05-2025,Supplements,In-Store,9,61,Health Conscious Buyer,,9.18281E+11
+CUST1169,44,Other,New Brooke,21-06-2024,239.41,1.3,18-12-2024,Yoga Accessories,In-Store,20,61,General Buyer,,9.18281E+11
+CUST1170,63,Male,Port Colleenhaven,24-01-2024,226.03,6.2,28-04-2025,Gym Gear,Online,5,21,General Buyer,,9.18281E+11
+CUST1171,51,Female,Ericmouth,22-08-2022,477.63,5.5,04-01-2024,Training Wear,In-Store,12,11,Casual Gym-Goer,,9.18281E+11
+CUST1172,58,Female,Lake Larry,12-06-2022,141.75,0.4,24-10-2022,Running Shoes,Online,7,160,Casual Gym-Goer,,9.18281E+11
+CUST1173,24,Other,Williamview,24-09-2022,383.21,1.5,24-08-2024,Supplements,Online,20,175,Fitness Enthusiast,,9.18281E+11
+CUST1174,47,Other,East Jamesside,07-06-2022,323.23,8.2,28-05-2024,Running Shoes,Online,1,11,Marathon Trainer,,9.18281E+11
+CUST1175,30,Male,New Mariotown,16-03-2025,468.02,5.3,21-04-2025,Training Wear,Online,8,165,General Buyer,,9.18281E+11
+CUST1176,30,Female,West Allison,22-03-2023,433.83,0.7,05-05-2023,Supplements,Online,3,111,Fitness Enthusiast,,9.18281E+11
+CUST1177,43,Other,Sanchezfort,24-07-2024,449.43,4,27-11-2024,Gym Gear,Online,15,132,Casual Gym-Goer,,9.18281E+11
+CUST1178,35,Male,Lake Matthew,26-11-2021,223.76,4.4,23-12-2023,Gym Gear,Online,10,83,General Buyer,,9.18281E+11
+CUST1179,60,Female,New Stephanie,01-03-2022,234.04,7.2,03-09-2023,Gym Gear,Online,11,90,Casual Gym-Goer,,9.18281E+11
+CUST1180,57,Female,South Aaron,22-07-2022,326.95,8,01-01-2024,Running Shoes,In-Store,20,131,Casual Gym-Goer,,9.18281E+11
+CUST1181,65,Other,South Noah,26-09-2022,477.34,1.6,09-04-2025,Training Wear,Online,1,60,General Buyer,,9.18281E+11
+CUST1182,59,Female,Brandtside,16-09-2022,203.77,5.8,26-01-2025,Training Wear,In-Store,14,95,Casual Gym-Goer,,9.18281E+11
+CUST1183,46,Male,North Beth,11-06-2020,86.09,3.8,02-11-2024,Supplements,Online,7,6,Health Conscious Buyer,,9.18281E+11
+CUST1184,65,Male,Stevenland,25-12-2021,268.52,9.2,06-05-2022,Running Shoes,Online,8,54,Marathon Trainer,,9.18281E+11
+CUST1185,57,Female,East Mikeburgh,30-05-2022,459.91,5,20-02-2024,Running Shoes,In-Store,2,113,Casual Gym-Goer,,9.18281E+11
+CUST1186,23,Other,New Mariotown,06-07-2024,340.56,7.2,06-02-2025,Training Wear,Online,9,179,General Buyer,,9.18281E+11
+CUST1187,58,Male,Brandtside,27-05-2022,264.2,1.4,03-05-2025,Gym Gear,In-Store,7,6,General Buyer,,9.18281E+11
+CUST1188,41,Other,North Beth,29-05-2024,197.08,8.1,03-02-2025,Training Wear,In-Store,19,16,Casual Gym-Goer,,9.18281E+11
+CUST1189,37,Female,East Josephville,13-07-2024,365.06,5.4,03-01-2025,Yoga Accessories,In-Store,4,164,General Buyer,,9.18281E+11
+CUST1190,22,Female,Shieldston,03-07-2020,346.45,3.6,18-04-2021,Training Wear,In-Store,4,14,General Buyer,,9.18281E+11
+CUST1191,25,Other,New Jessica,11-11-2022,165.98,1.8,21-10-2023,Gym Gear,Online,16,20,Casual Gym-Goer,,9.18281E+11
+CUST1192,34,Male,Sarahborough,19-10-2023,479.05,2.9,08-04-2025,Supplements,In-Store,16,151,Fitness Enthusiast,,9.18281E+11
+CUST1193,55,Male,Lake Mark,05-06-2022,336.19,7.3,23-09-2023,Training Wear,Online,18,7,Casual Gym-Goer,,9.18281E+11
+CUST1194,23,Male,Johnfurt,01-07-2023,390.09,2.8,02-07-2024,Gym Gear,Online,19,127,Casual Gym-Goer,,9.18281E+11
+CUST1195,58,Other,Port Colleenhaven,24-01-2025,328.12,3.2,07-05-2025,Gym Gear,Online,9,176,General Buyer,,9.18281E+11
+CUST1196,21,Male,Sanchezfort,14-04-2023,219.5,4.8,09-03-2024,Supplements,In-Store,10,81,Health Conscious Buyer,,9.18281E+11
+CUST1197,64,Female,New Jeffrey,14-01-2025,82.77,3.8,19-03-2025,Training Wear,In-Store,10,31,General Buyer,,9.18281E+11
+CUST1198,35,Female,South Patrickmouth,09-05-2023,87.62,0.7,04-11-2024,Yoga Accessories,Online,7,40,General Buyer,,9.18281E+11
+CUST1199,38,Other,West Juan,20-03-2024,170.1,7.7,16-10-2024,Yoga Accessories,Online,15,127,General Buyer,,9.18281E+11
+CUST1200,19,Male,West Andrewside,19-12-2022,262.61,9.7,13-01-2024,Gym Gear,Online,1,126,General Buyer,,9.18281E+11
+CUST1201,56,Other,North Amandahaven,27-04-2022,245.88,5.5,31-10-2022,Running Shoes,Online,4,93,Casual Gym-Goer,,9.18281E+11
+CUST1202,43,Female,Robinsonshire,30-12-2021,212.28,5.8,04-05-2023,Gym Gear,Online,17,98,Casual Gym-Goer,,9.18281E+11
+CUST1203,50,Female,Evanmouth,17-05-2021,283.93,8.3,14-07-2024,Training Wear,In-Store,4,100,General Buyer,,9.18281E+11
+CUST1204,41,Female,Rodneyside,30-11-2024,470.7,7.6,27-04-2025,Gym Gear,Online,16,9,Casual Gym-Goer,,9.18281E+11
+CUST1205,26,Other,North John,07-12-2021,405.9,5.3,30-09-2022,Gym Gear,In-Store,10,81,General Buyer,,9.18281E+11
+CUST1206,28,Female,South David,14-03-2022,374.87,3.1,04-05-2025,Supplements,Online,18,4,Fitness Enthusiast,,9.18281E+11
+CUST1207,41,Female,North Amandahaven,23-06-2024,72.61,4.3,08-10-2024,Supplements,In-Store,19,167,Health Conscious Buyer,,9.18281E+11
+CUST1208,55,Other,Daviston,26-10-2024,366.27,5.9,12-02-2025,Gym Gear,Online,4,62,General Buyer,,9.18281E+11
+CUST1209,20,Other,Bassport,19-03-2021,72.75,0.4,02-10-2024,Supplements,Online,4,52,Health Conscious Buyer,,9.18281E+11
+CUST1210,44,Other,Lake Rebeccaside,04-01-2022,313.51,4.8,09-04-2023,Running Shoes,In-Store,16,83,Casual Gym-Goer,,9.18281E+11
+CUST1211,60,Female,South Todd,17-04-2022,200.88,9.6,29-10-2023,Yoga Accessories,Online,17,174,General Buyer,,9.18281E+11
+CUST1212,59,Other,Lake Nicoleview,19-11-2021,312.84,2.1,03-03-2023,Gym Gear,Online,17,76,Casual Gym-Goer,,9.18281E+11
+CUST1213,36,Other,West Donald,23-06-2020,351.32,5,07-01-2025,Yoga Accessories,Online,17,70,General Buyer,,9.18281E+11
+CUST1214,36,Male,North Beth,08-06-2021,344.78,3.9,08-08-2022,Yoga Accessories,Online,4,73,General Buyer,,9.18281E+11
+CUST1215,63,Male,East Donna,29-09-2020,463.52,6.6,17-03-2021,Yoga Accessories,In-Store,6,69,General Buyer,,9.18281E+11
+CUST1216,53,Other,Danielchester,24-01-2025,85.89,6.2,21-03-2025,Training Wear,In-Store,7,135,General Buyer,,9.18281E+11
+CUST1217,32,Other,Daviston,07-06-2021,45.2,4.3,22-02-2024,Yoga Accessories,In-Store,4,140,General Buyer,,9.18281E+11
+CUST1218,28,Female,Lake Debbie,14-07-2024,468.82,8.8,22-08-2024,Yoga Accessories,In-Store,9,165,General Buyer,,9.18281E+11
+CUST1219,21,Male,Lake Debbie,18-06-2020,295.58,5.4,06-05-2025,Running Shoes,In-Store,13,45,Casual Gym-Goer,,9.18281E+11
+CUST1220,20,Female,Stevenland,11-10-2022,109.43,7.5,09-10-2024,Supplements,In-Store,0,154,Health Conscious Buyer,,9.18281E+11
+CUST1221,24,Female,Teresaburgh,06-06-2024,238.09,6.5,24-11-2024,Training Wear,Online,4,119,General Buyer,,9.18281E+11
+CUST1222,35,Male,Port Keith,04-04-2023,178.73,7.4,25-08-2023,Supplements,In-Store,0,75,Health Conscious Buyer,,9.18281E+11
+CUST1223,54,Other,North Matthewberg,17-10-2020,112.72,6.2,10-12-2022,Yoga Accessories,Online,16,102,General Buyer,,9.18281E+11
+CUST1224,60,Male,Adamsborough,03-06-2024,491.21,4.9,17-07-2024,Gym Gear,In-Store,8,114,General Buyer,,9.18281E+11
+CUST1225,35,Female,East Nathaniel,30-11-2020,299.58,5.8,27-04-2024,Supplements,Online,7,30,Health Conscious Buyer,,9.18281E+11
+CUST1226,47,Female,South Noah,16-07-2024,214.6,5.1,13-08-2024,Supplements,In-Store,20,75,Health Conscious Buyer,,9.18281E+11
+CUST1227,41,Other,Coxberg,07-04-2025,125.18,1.5,07-05-2025,Gym Gear,Online,19,179,Casual Gym-Goer,,9.18281E+11
+CUST1228,53,Female,North Matthewberg,24-10-2020,278.01,6.7,07-02-2022,Gym Gear,In-Store,19,20,Casual Gym-Goer,,9.18281E+11
+CUST1229,51,Female,South Todd,17-08-2021,357.81,1,28-01-2025,Training Wear,In-Store,1,129,General Buyer,,9.18281E+11
+CUST1230,30,Other,Port Richard,22-02-2025,91.93,3.4,23-03-2025,Training Wear,Online,3,149,General Buyer,,9.18281E+11
+CUST1231,49,Male,North Deniseside,30-01-2021,233.83,0.7,12-03-2023,Gym Gear,Online,14,143,Casual Gym-Goer,,9.18281E+11
+CUST1232,47,Other,New Stephanie,14-05-2021,367.17,4.1,27-09-2023,Running Shoes,In-Store,18,108,Casual Gym-Goer,,9.18281E+11
+CUST1233,40,Other,Ericmouth,25-11-2023,279.76,0.8,09-03-2025,Running Shoes,Online,1,46,Casual Gym-Goer,,9.18281E+11
+CUST1234,26,Other,Lake Matthew,12-04-2022,330.02,4.3,01-07-2024,Yoga Accessories,Online,12,174,General Buyer,,9.18281E+11
+CUST1235,60,Other,West Michael,05-08-2023,333.7,3.6,19-07-2024,Gym Gear,Online,16,57,Casual Gym-Goer,,9.18281E+11
+CUST1236,18,Male,East Nathaniel,15-02-2024,242.24,7.2,02-10-2024,Yoga Accessories,Online,7,88,General Buyer,,9.18281E+11
+CUST1237,27,Female,Jasonfort,03-01-2024,469.96,7.3,27-08-2024,Running Shoes,In-Store,13,4,Casual Gym-Goer,,9.18281E+11
+CUST1238,33,Male,Ericmouth,12-03-2025,68.43,0.5,11-05-2025,Training Wear,In-Store,7,102,General Buyer,,9.18281E+11
+CUST1239,46,Male,East Nicholasfurt,14-11-2020,124.29,8.7,18-09-2021,Running Shoes,In-Store,16,59,Casual Gym-Goer,,9.18281E+11
+CUST1240,64,Other,New Mariotown,15-02-2022,297.19,7.8,13-10-2024,Supplements,In-Store,9,169,Health Conscious Buyer,,9.18281E+11
+CUST1241,51,Male,Lake Crystalbury,25-02-2022,164.24,0.8,12-04-2023,Training Wear,In-Store,20,142,Casual Gym-Goer,,9.18281E+11
+CUST1242,49,Male,East Donna,18-01-2021,471.96,6.8,20-05-2022,Training Wear,Online,13,76,Casual Gym-Goer,,9.18281E+11
+CUST1243,42,Male,North Matthewberg,26-05-2022,278.21,2.6,20-02-2023,Gym Gear,Online,4,14,General Buyer,,9.18281E+11
+CUST1244,53,Female,North Micheleland,19-01-2025,287.5,1.5,02-02-2025,Gym Gear,Online,6,20,General Buyer,,9.18281E+11
+CUST1245,46,Female,Herrerafurt,09-09-2021,277.11,8.3,13-09-2021,Running Shoes,Online,12,154,Casual Gym-Goer,,9.18281E+11
+CUST1246,20,Male,Jasonfort,01-11-2023,406.23,6,15-10-2024,Training Wear,In-Store,15,85,Casual Gym-Goer,,9.18281E+11
+CUST1247,37,Male,Juliechester,09-05-2024,469.84,9.6,30-08-2024,Running Shoes,Online,7,180,Marathon Trainer,,9.18281E+11
+CUST1248,31,Female,East Courtneychester,20-08-2020,285,7.8,09-08-2022,Yoga Accessories,Online,17,78,General Buyer,,9.18281E+11
+CUST1249,34,Female,North Deniseside,23-10-2022,443.75,4.8,05-01-2024,Yoga Accessories,Online,6,105,General Buyer,,9.18281E+11
+CUST1250,20,Other,Coxberg,21-03-2024,375.8,0.4,15-05-2024,Training Wear,Online,9,84,General Buyer,,9.18281E+11
+CUST1251,32,Female,Mooreport,06-05-2022,420.01,5.1,20-06-2023,Supplements,Online,15,164,Fitness Enthusiast,,9.18281E+11
+CUST1252,65,Female,Gomezchester,15-01-2022,100.75,8,06-11-2023,Gym Gear,In-Store,17,138,Casual Gym-Goer,,9.18281E+11
+CUST1253,59,Male,South Todd,02-05-2021,36.24,8.5,25-08-2023,Running Shoes,In-Store,13,161,Casual Gym-Goer,,9.18281E+11
+CUST1254,32,Male,Lake Lisaport,09-04-2022,92.49,2.3,09-01-2025,Yoga Accessories,Online,1,170,General Buyer,,9.18281E+11
+CUST1255,57,Female,Stewartland,16-08-2021,254.17,0.3,02-10-2022,Training Wear,Online,0,70,General Buyer,,9.18281E+11
+CUST1256,52,Female,New Roberttown,26-07-2021,261.06,7,13-11-2021,Yoga Accessories,In-Store,3,134,General Buyer,,9.18281E+11
+CUST1257,27,Male,Jasonfort,12-11-2020,317.49,2.7,11-04-2022,Supplements,Online,12,103,Fitness Enthusiast,,9.18281E+11
+CUST1258,47,Other,South Patrickmouth,22-12-2022,495.31,2.4,14-03-2024,Running Shoes,In-Store,2,96,Casual Gym-Goer,,9.18281E+11
+CUST1259,53,Female,Lake Roberto,04-02-2024,325.64,7.1,10-05-2024,Running Shoes,Online,13,84,Casual Gym-Goer,,9.18281E+11
+CUST1260,54,Male,South Todd,06-05-2024,461.19,2.5,28-01-2025,Training Wear,Online,8,19,General Buyer,,9.18281E+11
+CUST1261,61,Female,East Nicholasfurt,11-12-2022,290.48,0.5,27-08-2024,Supplements,In-Store,6,101,Health Conscious Buyer,,9.18281E+11
+CUST1262,22,Female,South Noah,03-09-2022,290.7,5.8,19-10-2024,Yoga Accessories,Online,12,35,General Buyer,,9.18281E+11
+CUST1263,62,Other,Cassandraton,13-12-2024,260.38,9.7,18-03-2025,Running Shoes,In-Store,13,19,Casual Gym-Goer,,9.18281E+11
+CUST1264,39,Other,Hoffmanville,31-01-2024,314.66,6,02-04-2024,Supplements,In-Store,20,115,Fitness Enthusiast,,9.18281E+11
+CUST1265,49,Male,West Allison,11-09-2020,285.46,3.9,15-05-2024,Gym Gear,Online,2,75,General Buyer,,9.18281E+11
+CUST1266,33,Other,North Noahstad,06-02-2023,59.38,1.7,29-02-2024,Gym Gear,Online,10,23,General Buyer,,9.18281E+11
+CUST1267,18,Female,Sanchezfort,30-07-2020,192.76,2.8,09-05-2021,Gym Gear,In-Store,5,142,General Buyer,,9.18281E+11
+CUST1268,53,Other,Lake Crystalbury,22-04-2022,69.58,1.1,04-03-2025,Training Wear,In-Store,19,83,Casual Gym-Goer,,9.18281E+11
+CUST1269,42,Male,Port Colleenhaven,02-04-2025,218.63,7.8,30-04-2025,Training Wear,In-Store,18,175,Casual Gym-Goer,,9.18281E+11
+CUST1270,42,Male,West Michael,14-07-2020,149.08,2.8,29-10-2022,Gym Gear,In-Store,5,107,General Buyer,,9.18281E+11
+CUST1271,37,Female,North Noahstad,05-04-2025,193.34,9.5,06-04-2025,Yoga Accessories,In-Store,14,77,General Buyer,,9.18281E+11
+CUST1272,18,Female,North John,06-11-2021,423.97,3.9,06-11-2023,Supplements,Online,10,166,Fitness Enthusiast,,9.18281E+11
+CUST1273,56,Male,East Nathaniel,09-10-2024,173.92,9.5,29-03-2025,Gym Gear,Online,10,101,General Buyer,,9.18281E+11
+CUST1274,38,Female,Williamview,22-09-2022,353.58,5,30-06-2023,Training Wear,In-Store,10,100,General Buyer,,9.18281E+11
+CUST1275,41,Male,Mooreport,25-01-2024,115.9,10,09-02-2025,Gym Gear,In-Store,14,53,Casual Gym-Goer,,9.18281E+11
+CUST1276,46,Female,East Mikeburgh,18-02-2021,53.2,8.5,18-02-2023,Yoga Accessories,Online,4,61,General Buyer,,9.18281E+11
+CUST1277,34,Other,New Jessica,27-04-2023,363.31,7.9,09-03-2024,Running Shoes,Online,19,102,Casual Gym-Goer,,9.18281E+11
+CUST1278,52,Other,East Mikeburgh,12-03-2023,220.78,0.6,22-07-2024,Supplements,In-Store,3,168,Health Conscious Buyer,,9.18281E+11
+CUST1279,60,Female,Lake Mark,31-03-2021,330.56,0.6,22-11-2024,Yoga Accessories,Online,13,25,General Buyer,,9.18281E+11
+CUST1280,34,Male,North Deniseside,22-09-2021,378.49,5.7,16-02-2023,Training Wear,In-Store,14,118,Casual Gym-Goer,,9.18281E+11
+CUST1281,61,Other,East Mikeburgh,10-11-2023,260.22,3.6,01-05-2025,Running Shoes,Online,3,21,Casual Gym-Goer,,9.18281E+11
+CUST1282,25,Other,Jacquelineland,28-07-2024,187.2,3.6,16-11-2024,Gym Gear,Online,11,112,Casual Gym-Goer,,9.18281E+11
+CUST1283,64,Other,Leeville,07-10-2023,173.08,3.1,07-12-2024,Running Shoes,In-Store,10,173,Casual Gym-Goer,,9.18281E+11
+CUST1284,28,Other,South Patrickmouth,02-09-2020,267.68,5.6,16-07-2024,Supplements,Online,14,103,Health Conscious Buyer,,9.18281E+11
+CUST1285,58,Male,Adamsborough,08-02-2021,327.43,4.4,13-10-2023,Running Shoes,In-Store,14,99,Casual Gym-Goer,,9.18281E+11
+CUST1286,18,Other,Juliechester,04-07-2022,118.78,7.6,18-11-2023,Running Shoes,In-Store,17,83,Casual Gym-Goer,,9.18281E+11
+CUST1287,30,Female,Port Keith,06-05-2021,145.93,8.7,18-08-2024,Training Wear,Online,19,100,Casual Gym-Goer,,9.18281E+11
+CUST1288,55,Male,East Donna,18-10-2023,188.95,4.7,20-11-2024,Gym Gear,Online,19,172,Casual Gym-Goer,,9.18281E+11
+CUST1289,26,Female,Port Jesseville,14-05-2020,134.51,1.3,24-12-2024,Supplements,In-Store,16,152,Health Conscious Buyer,,9.18281E+11
+CUST1290,26,Other,Martinezbury,15-04-2024,223.06,5,01-03-2025,Training Wear,In-Store,17,73,Casual Gym-Goer,,9.18281E+11
+CUST1291,26,Male,New Mariotown,26-10-2020,424.15,6.3,31-05-2022,Supplements,In-Store,15,98,Fitness Enthusiast,,9.18281E+11
+CUST1292,53,Other,Lake Debbie,07-10-2024,257.59,6.9,24-02-2025,Yoga Accessories,Online,15,144,General Buyer,,9.18281E+11
+CUST1293,19,Male,Port Colleenhaven,06-08-2024,35.69,2.4,05-04-2025,Supplements,In-Store,14,126,Health Conscious Buyer,,9.18281E+11
+CUST1294,53,Other,Port Keith,13-02-2024,294.9,2.8,24-03-2024,Training Wear,Online,17,10,Casual Gym-Goer,,9.18281E+11
+CUST1295,64,Female,East Nicholasfurt,02-02-2022,124.9,4.4,23-03-2023,Gym Gear,Online,1,89,General Buyer,,9.18281E+11
+CUST1296,23,Female,Port Jesseville,11-01-2025,392.3,2.5,05-02-2025,Training Wear,Online,19,42,Casual Gym-Goer,,9.18281E+11
+CUST1297,57,Male,West Donald,22-10-2022,410.49,8.1,01-09-2024,Training Wear,Online,17,137,Casual Gym-Goer,,9.18281E+11
+CUST1298,28,Female,Lake Lisaport,24-06-2024,160.46,5.8,10-08-2024,Training Wear,In-Store,4,105,General Buyer,,9.18281E+11
+CUST1299,21,Female,Lake Debbie,08-08-2020,80.91,8.7,21-08-2022,Gym Gear,In-Store,10,173,General Buyer,,9.18281E+11
+CUST1300,43,Female,Jacquelineland,15-09-2021,297.16,2.8,10-01-2023,Yoga Accessories,Online,14,23,General Buyer,,9.18281E+11
+CUST1301,43,Other,North Cynthiaview,16-01-2025,153.55,9.4,18-01-2025,Supplements,Online,15,0,Health Conscious Buyer,,9.18281E+11
+CUST1302,64,Male,Lake Matthew,20-01-2025,486.63,6.4,09-04-2025,Supplements,In-Store,17,109,Fitness Enthusiast,,9.18281E+11
+CUST1303,31,Female,Danielchester,24-02-2021,174.98,3,08-02-2022,Training Wear,In-Store,18,87,Casual Gym-Goer,,9.18281E+11
+CUST1304,61,Male,Robinsonshire,28-04-2021,67.8,7.9,14-04-2023,Yoga Accessories,In-Store,3,40,General Buyer,,9.18281E+11
+CUST1305,46,Female,North Judithbury,10-05-2021,496.08,4.4,10-02-2024,Gym Gear,Online,5,70,General Buyer,,9.18281E+11
+CUST1306,23,Other,Brandtside,01-09-2021,140.19,3.8,15-10-2023,Gym Gear,In-Store,12,179,Casual Gym-Goer,,9.18281E+11
+CUST1307,32,Female,Lake Debbie,03-11-2022,63.78,1.1,01-01-2025,Gym Gear,Online,2,57,General Buyer,,9.18281E+11
+CUST1308,51,Other,Sanchezfort,07-09-2022,24.46,7,13-06-2024,Running Shoes,Online,4,58,Casual Gym-Goer,,9.18281E+11
+CUST1309,42,Male,Lake Matthew,18-06-2024,406.86,1.2,18-12-2024,Supplements,Online,4,34,Fitness Enthusiast,,9.18281E+11
+CUST1310,59,Other,Jacquelineland,07-06-2022,52.84,5.7,16-05-2024,Training Wear,In-Store,14,54,Casual Gym-Goer,,9.18281E+11
+CUST1311,58,Other,New Jessica,17-01-2025,461.55,6.2,14-02-2025,Yoga Accessories,In-Store,2,35,General Buyer,,9.18281E+11
+CUST1312,25,Other,Lake Matthew,15-08-2023,204.34,9.6,10-01-2024,Supplements,In-Store,7,21,Health Conscious Buyer,,9.18281E+11
+CUST1313,33,Other,North Susan,06-09-2024,308,6.2,29-10-2024,Running Shoes,Online,6,130,Marathon Trainer,,9.18281E+11
+CUST1314,30,Other,West Andrewside,13-12-2020,161.86,0.7,20-04-2023,Gym Gear,Online,12,127,Casual Gym-Goer,,9.18281E+11
+CUST1315,58,Other,North Noahstad,21-11-2023,273.58,9.8,10-08-2024,Supplements,Online,4,145,Health Conscious Buyer,,9.18281E+11
+CUST1316,44,Female,East Nicholasfurt,04-09-2024,347.81,7.7,16-12-2024,Running Shoes,In-Store,18,67,Casual Gym-Goer,,9.18281E+11
+CUST1317,31,Male,Lake Roberto,18-05-2020,475.37,4.1,13-10-2022,Supplements,Online,13,21,Fitness Enthusiast,,9.18281E+11
+CUST1318,58,Other,Port Richard,24-11-2022,315.7,2.9,23-12-2024,Supplements,In-Store,16,39,Fitness Enthusiast,,9.18281E+11
+CUST1319,52,Female,West Andrewside,15-08-2021,301.49,7.7,09-07-2023,Running Shoes,Online,13,61,Casual Gym-Goer,,9.18281E+11
+CUST1320,21,Male,Herrerafurt,09-12-2024,463.82,1.3,13-03-2025,Training Wear,In-Store,9,168,General Buyer,,9.18281E+11
+CUST1321,65,Male,Port Jesseville,18-04-2023,26.08,1.5,01-01-2024,Running Shoes,In-Store,15,133,Casual Gym-Goer,,9.18281E+11
+CUST1322,51,Other,Lake Nicoleview,19-01-2025,100.14,1.4,04-05-2025,Supplements,In-Store,0,109,Health Conscious Buyer,,9.18281E+11
+CUST1323,35,Other,Ericmouth,26-07-2023,146.22,9.8,13-07-2024,Running Shoes,Online,14,14,Casual Gym-Goer,,9.18281E+11
+CUST1324,49,Other,Lake Mark,04-02-2023,196.49,2.7,24-11-2023,Running Shoes,In-Store,7,0,Casual Gym-Goer,,9.18281E+11
+CUST1325,20,Male,South Patrickmouth,22-05-2022,42.07,3.8,26-10-2024,Gym Gear,In-Store,1,167,General Buyer,,9.18281E+11
+CUST1326,44,Male,West Natashaport,13-08-2023,139.17,9.2,10-02-2024,Supplements,Online,2,30,Health Conscious Buyer,,9.18281E+11
+CUST1327,50,Other,Lisatown,08-11-2023,106.09,8.1,11-12-2023,Running Shoes,Online,2,72,Casual Gym-Goer,,9.18281E+11
+CUST1328,37,Female,Herrerafurt,24-01-2023,285.48,0.3,27-01-2025,Gym Gear,Online,18,159,Casual Gym-Goer,,9.18281E+11
+CUST1329,33,Female,Lake Larry,08-08-2023,304.01,5,02-06-2024,Gym Gear,In-Store,4,104,General Buyer,,9.18281E+11
+CUST1330,19,Male,East Nicholasfurt,26-08-2021,186.28,8.4,04-10-2023,Running Shoes,Online,0,96,Casual Gym-Goer,,9.18281E+11
+CUST1331,65,Other,New Stephanie,03-09-2020,69.9,5.4,30-09-2021,Gym Gear,Online,15,36,Casual Gym-Goer,,9.18281E+11
+CUST1332,63,Female,Herrerafurt,18-08-2024,41.07,2.5,04-04-2025,Training Wear,Online,11,21,Casual Gym-Goer,,9.18281E+11
+CUST1333,55,Male,Mortonside,08-03-2023,84.09,8.2,10-08-2023,Running Shoes,In-Store,13,33,Casual Gym-Goer,,9.18281E+11
+CUST1334,33,Female,Lake Nicoleview,07-02-2024,428.44,9.3,24-04-2024,Yoga Accessories,Online,10,59,General Buyer,,9.18281E+11
+CUST1335,22,Male,West Michael,31-10-2024,394.37,5.9,25-04-2025,Gym Gear,In-Store,5,80,General Buyer,,9.18281E+11
+CUST1336,44,Male,Port Richard,30-03-2024,191.98,7.7,10-04-2024,Yoga Accessories,Online,14,30,General Buyer,,9.18281E+11
+CUST1337,23,Male,Davidstad,01-08-2021,166.02,7.1,29-04-2023,Training Wear,In-Store,6,83,General Buyer,,9.18281E+11
+CUST1338,27,Male,East Josephville,02-09-2021,139.15,3.7,27-12-2021,Training Wear,In-Store,9,44,General Buyer,,9.18281E+11
+CUST1339,19,Female,Leeville,08-05-2024,286.86,5.6,07-03-2025,Running Shoes,Online,3,35,Marathon Trainer,,9.18281E+11
+CUST1340,25,Male,Lake Roberto,12-08-2022,418.58,9.8,19-01-2024,Gym Gear,In-Store,12,161,Casual Gym-Goer,,9.18281E+11
+CUST1341,59,Male,Lake Leeton,27-09-2023,301.34,9.2,12-02-2025,Running Shoes,In-Store,2,165,Marathon Trainer,,9.18281E+11
+CUST1342,46,Male,Herrerafurt,15-01-2021,454.44,8.3,01-11-2023,Supplements,In-Store,1,12,Fitness Enthusiast,,9.18281E+11
+CUST1343,28,Other,New David,23-11-2024,414.41,4.1,04-02-2025,Running Shoes,Online,13,54,Casual Gym-Goer,,9.18281E+11
+CUST1344,29,Female,South Aaron,19-01-2023,234.09,1.7,15-02-2025,Training Wear,In-Store,20,105,Casual Gym-Goer,,9.18281E+11
+CUST1345,53,Female,Lake Roberto,16-12-2024,62.11,4,22-12-2024,Yoga Accessories,In-Store,20,134,General Buyer,,9.18281E+11
+CUST1346,33,Other,East Nicholasfurt,09-12-2020,401.53,9.9,08-12-2022,Supplements,Online,17,88,Fitness Enthusiast,,9.18281E+11
+CUST1347,54,Other,West Natashaport,20-10-2022,206.42,2,08-10-2023,Supplements,In-Store,0,71,Health Conscious Buyer,,9.18281E+11
+CUST1348,21,Female,South Todd,15-02-2021,191.57,5.9,21-12-2022,Gym Gear,In-Store,3,61,General Buyer,,9.18281E+11
+CUST1349,35,Other,Williamview,12-03-2021,46.84,10,05-06-2024,Gym Gear,Online,11,44,Casual Gym-Goer,,9.18281E+11
+CUST1350,29,Male,Shawhaven,19-03-2021,172.64,7.4,06-02-2023,Supplements,In-Store,11,144,Health Conscious Buyer,,9.18281E+11
+CUST1351,27,Other,Jasonfort,09-10-2021,421.61,8.1,21-09-2024,Yoga Accessories,Online,5,23,General Buyer,,9.18281E+11
+CUST1352,21,Male,Port Jacobland,27-11-2022,125.03,5.4,10-01-2023,Running Shoes,Online,19,33,Casual Gym-Goer,,9.18281E+11
+CUST1353,39,Other,East Lydiamouth,30-09-2020,461.01,8.5,04-07-2023,Supplements,In-Store,0,180,Fitness Enthusiast,,9.18281E+11
+CUST1354,27,Male,South Todd,01-11-2020,433.12,9.6,01-05-2023,Supplements,Online,18,77,Fitness Enthusiast,,9.18281E+11
+CUST1355,38,Male,South Noah,29-05-2023,371.53,4.5,15-03-2024,Yoga Accessories,Online,5,143,General Buyer,,9.18281E+11
+CUST1356,62,Other,West Allison,09-01-2024,127.15,6,01-05-2024,Gym Gear,Online,9,75,General Buyer,,9.18281E+11
+CUST1357,26,Male,Lake Matthew,08-06-2022,20.86,7.1,10-09-2024,Training Wear,Online,18,154,Casual Gym-Goer,,9.18281E+11
+CUST1358,38,Other,Coxberg,12-11-2023,327.03,1.2,24-01-2025,Yoga Accessories,In-Store,10,60,General Buyer,,9.18281E+11
+CUST1359,40,Female,Lake Mark,21-11-2021,325.37,9.6,12-08-2022,Supplements,Online,0,63,Fitness Enthusiast,,9.18281E+11
+CUST1360,62,Male,East Donna,05-11-2021,143.2,1.3,07-03-2022,Running Shoes,In-Store,12,107,Casual Gym-Goer,,9.18281E+11
+CUST1361,28,Female,Stevenland,12-08-2023,443.25,3.6,05-12-2024,Yoga Accessories,In-Store,15,147,General Buyer,,9.18281E+11
+CUST1362,59,Other,Coxberg,29-05-2022,98.08,0.9,10-07-2024,Running Shoes,Online,0,26,Casual Gym-Goer,,9.18281E+11
+CUST1363,22,Female,Lake Mark,29-07-2021,446.21,1.8,24-07-2022,Running Shoes,In-Store,10,157,Casual Gym-Goer,,9.18281E+11
+CUST1364,48,Other,East Jessetown,12-04-2024,227.04,6.6,26-10-2024,Training Wear,Online,5,84,General Buyer,,9.18281E+11
+CUST1365,31,Male,Lake Crystalbury,07-04-2024,354.65,7.3,22-10-2024,Training Wear,Online,9,24,General Buyer,,9.18281E+11
+CUST1366,21,Female,North Beth,09-06-2020,283.84,5,24-05-2024,Running Shoes,Online,0,75,Casual Gym-Goer,,9.18281E+11
+CUST1367,60,Other,North Susan,21-10-2022,250.56,1.2,16-02-2025,Gym Gear,In-Store,20,20,Casual Gym-Goer,,9.18281E+11
+CUST1368,48,Male,New Stephanie,13-09-2021,396.74,4.8,05-01-2022,Supplements,In-Store,20,47,Fitness Enthusiast,,9.18281E+11
+CUST1369,41,Female,Lake Larry,12-02-2024,109.56,0.6,06-11-2024,Yoga Accessories,Online,8,68,General Buyer,,9.18281E+11
+CUST1370,54,Male,New Jessica,26-11-2022,381.07,6.7,15-09-2024,Running Shoes,Online,17,150,Casual Gym-Goer,,9.18281E+11
+CUST1371,32,Other,Lake Roberto,27-06-2022,423.58,8.2,05-06-2024,Yoga Accessories,Online,18,121,General Buyer,,9.18281E+11
+CUST1372,37,Male,West Andrewside,05-12-2022,453.33,7.2,10-10-2023,Training Wear,In-Store,3,114,General Buyer,,9.18281E+11
+CUST1373,29,Male,Juliechester,19-08-2023,408.06,1.4,28-08-2024,Yoga Accessories,In-Store,13,160,General Buyer,,9.18281E+11
+CUST1374,27,Other,Lake Nicoleview,07-04-2021,173.48,7.3,10-04-2022,Running Shoes,In-Store,12,141,Casual Gym-Goer,,9.18281E+11
+CUST1375,38,Female,North Sarabury,08-08-2023,239.92,8.8,25-10-2024,Training Wear,Online,3,37,General Buyer,,9.18281E+11
+CUST1376,54,Other,Lake Leeton,31-05-2023,384.02,9.4,19-08-2024,Running Shoes,In-Store,9,88,Marathon Trainer,,9.18281E+11
+CUST1377,44,Female,Martinezbury,16-11-2022,334.3,5.8,17-02-2024,Yoga Accessories,In-Store,5,36,General Buyer,,9.18281E+11
+CUST1378,57,Other,Davidstad,18-07-2020,352.96,0.6,29-11-2023,Supplements,In-Store,1,68,Fitness Enthusiast,,9.18281E+11
+CUST1379,41,Male,North Jessicaland,10-09-2022,412.35,3.2,22-09-2022,Supplements,Online,3,58,Fitness Enthusiast,,9.18281E+11
+CUST1380,26,Female,North Cynthiaview,04-03-2025,232.69,8.3,09-05-2025,Supplements,Online,19,48,Health Conscious Buyer,,9.18281E+11
+CUST1381,46,Male,Lake Crystalbury,10-10-2020,375.65,7.6,31-12-2024,Supplements,In-Store,16,16,Fitness Enthusiast,,9.18281E+11
+CUST1382,37,Other,Mortonside,17-10-2022,213.62,7.8,09-10-2023,Training Wear,In-Store,5,51,General Buyer,,9.18281E+11
+CUST1383,21,Male,Lake Debra,10-05-2023,239.1,9.2,27-10-2023,Gym Gear,Online,11,129,Casual Gym-Goer,,9.18281E+11
+CUST1384,43,Other,Port Jesseville,22-12-2021,346.96,2.6,12-08-2024,Yoga Accessories,Online,5,121,General Buyer,,9.18281E+11
+CUST1385,55,Other,East Donna,28-06-2022,185.24,8.4,17-04-2025,Supplements,In-Store,9,12,Health Conscious Buyer,,9.18281E+11
+CUST1386,28,Other,Lake Rebeccaside,09-07-2021,483.16,8.6,10-03-2024,Gym Gear,In-Store,8,131,General Buyer,,9.18281E+11
+CUST1387,19,Other,East Jill,08-03-2021,247.57,1.5,09-01-2025,Gym Gear,In-Store,7,78,General Buyer,,9.18281E+11
+CUST1388,63,Other,Johnfurt,10-09-2020,152.18,9,27-04-2023,Supplements,Online,8,77,Health Conscious Buyer,,9.18281E+11
+CUST1389,61,Other,New Brooke,09-02-2024,210.63,1.2,05-03-2024,Training Wear,Online,17,155,Casual Gym-Goer,,9.18281E+11
+CUST1390,36,Female,Davidstad,18-06-2023,71.89,0.8,06-01-2025,Supplements,Online,8,166,Health Conscious Buyer,,9.18281E+11
+CUST1391,37,Male,New Jessica,23-06-2021,268.3,2.6,10-11-2021,Running Shoes,Online,10,6,Casual Gym-Goer,,9.18281E+11
+CUST1392,59,Female,Port Colleenhaven,13-11-2022,144.52,4.3,03-04-2024,Yoga Accessories,In-Store,18,146,General Buyer,,9.18281E+11
+CUST1393,30,Female,West Juan,22-11-2023,362.42,6.9,06-04-2024,Yoga Accessories,Online,16,43,General Buyer,,9.18281E+11
+CUST1394,60,Other,Adamsborough,24-01-2022,161.02,4.8,17-08-2022,Supplements,In-Store,10,56,Health Conscious Buyer,,9.18281E+11
+CUST1395,40,Male,North Cynthiaview,11-12-2024,438.29,4.3,20-02-2025,Supplements,Online,8,118,Fitness Enthusiast,,9.18281E+11
+CUST1396,25,Female,Lisatown,15-11-2024,435.87,5.9,20-02-2025,Training Wear,In-Store,15,128,Casual Gym-Goer,,9.18281E+11
+CUST1397,25,Other,Samuelhaven,04-09-2022,274.32,4.2,17-05-2023,Gym Gear,In-Store,6,145,General Buyer,,9.18281E+11
+CUST1398,47,Male,New Mariotown,18-07-2022,433.95,2,04-08-2024,Running Shoes,Online,10,45,Casual Gym-Goer,,9.18281E+11
+CUST1399,38,Other,Lake Roberto,13-11-2022,22.26,2.9,22-04-2024,Gym Gear,In-Store,15,22,Casual Gym-Goer,,9.18281E+11
+CUST1400,26,Other,New David,03-05-2021,324.07,4.2,30-04-2023,Yoga Accessories,Online,0,51,General Buyer,,9.18281E+11
+CUST1401,64,Female,East Jill,30-12-2020,448.16,7.6,12-03-2022,Training Wear,In-Store,0,160,General Buyer,,9.18281E+11
+CUST1402,64,Male,Coxberg,11-04-2022,352.89,3.6,24-02-2025,Gym Gear,In-Store,12,78,Casual Gym-Goer,,9.18281E+11
+CUST1403,28,Male,Robinsonshire,27-09-2023,163.14,3.1,02-12-2024,Training Wear,Online,13,34,Casual Gym-Goer,,9.18281E+11
+CUST1404,39,Female,West Allison,21-06-2023,380.06,1.8,30-08-2023,Yoga Accessories,In-Store,7,33,General Buyer,,9.18281E+11
+CUST1405,31,Other,New Roberttown,18-09-2023,303.05,1.9,28-09-2023,Supplements,In-Store,12,65,Fitness Enthusiast,,9.18281E+11
+CUST1406,52,Other,Lisatown,10-08-2022,305.08,0.7,20-11-2024,Running Shoes,In-Store,1,106,Casual Gym-Goer,,9.18281E+11
+CUST1407,46,Female,Port Jesseville,29-05-2021,282.7,4.8,05-05-2023,Gym Gear,In-Store,20,107,Casual Gym-Goer,,9.18281E+11
+CUST1408,60,Male,Stewartland,30-06-2023,269.75,6.3,03-12-2024,Gym Gear,Online,3,158,General Buyer,,9.18281E+11
+CUST1409,25,Female,Port Keith,03-08-2022,396.68,5.1,27-01-2025,Training Wear,In-Store,8,51,General Buyer,,9.18281E+11
+CUST1410,40,Other,Lake Crystalbury,07-08-2023,161.77,0.6,06-05-2025,Yoga Accessories,In-Store,15,0,General Buyer,,9.18281E+11
+CUST1411,18,Other,Herrerafurt,09-07-2023,455.3,8.4,01-10-2023,Yoga Accessories,In-Store,2,19,General Buyer,,9.18281E+11
+CUST1412,64,Other,New Kellystad,07-05-2022,454.29,6.5,08-05-2024,Yoga Accessories,Online,8,25,General Buyer,,9.18281E+11
+CUST1413,29,Male,Port Colleenhaven,27-07-2020,192.9,6.8,06-05-2025,Yoga Accessories,In-Store,3,11,General Buyer,,9.18281E+11
+CUST1414,18,Male,Stewartland,24-02-2023,330.66,3.4,02-02-2024,Yoga Accessories,Online,2,87,General Buyer,,9.18281E+11
+CUST1415,29,Male,New Jeffrey,23-11-2020,212.12,4.7,04-11-2024,Yoga Accessories,Online,13,42,General Buyer,,9.18281E+11
+CUST1416,25,Male,Bassport,05-12-2022,368.68,9.8,30-08-2024,Gym Gear,In-Store,13,123,Casual Gym-Goer,,9.18281E+11
+CUST1417,54,Other,Sanchezfort,08-05-2021,107.01,3.9,11-12-2021,Supplements,In-Store,4,124,Health Conscious Buyer,,9.18281E+11
+CUST1418,25,Female,Sanchezfort,28-09-2020,42.07,2.8,21-01-2021,Supplements,In-Store,16,147,Health Conscious Buyer,,9.18281E+11
+CUST1419,64,Other,Coxberg,12-12-2022,489.39,6.8,15-01-2025,Supplements,In-Store,13,63,Fitness Enthusiast,,9.18281E+11
+CUST1420,48,Female,Stewartland,06-05-2021,344.62,4,03-10-2021,Training Wear,In-Store,0,40,General Buyer,,9.18281E+11
+CUST1421,50,Female,Stevenland,10-05-2022,437.32,0.9,22-08-2024,Yoga Accessories,Online,7,71,General Buyer,,9.18281E+11
+CUST1422,21,Other,Coxberg,06-07-2021,284.24,3.9,01-03-2023,Gym Gear,In-Store,14,146,Casual Gym-Goer,,9.18281E+11
+CUST1423,46,Male,Stevenland,20-03-2024,234.59,1.4,02-01-2025,Yoga Accessories,In-Store,3,9,General Buyer,,9.18281E+11
+CUST1424,53,Other,North Judithbury,14-12-2024,416.44,8,05-03-2025,Training Wear,Online,16,167,Casual Gym-Goer,,9.18281E+11
+CUST1425,60,Female,North Jessicaland,03-09-2021,194.4,0.7,09-06-2023,Gym Gear,Online,10,158,General Buyer,,9.18281E+11
+CUST1426,56,Female,East Josephville,14-03-2021,335.44,7.2,29-09-2024,Running Shoes,In-Store,7,90,Marathon Trainer,,9.18281E+11
+CUST1427,58,Female,Saramouth,09-07-2024,270.55,7.1,05-03-2025,Running Shoes,In-Store,15,104,Casual Gym-Goer,,9.18281E+11
+CUST1428,24,Female,South David,30-10-2023,114.04,1.4,03-06-2024,Yoga Accessories,In-Store,14,48,General Buyer,,9.18281E+11
+CUST1429,63,Female,Lake Chad,20-08-2020,383.43,0.7,15-10-2023,Training Wear,In-Store,14,150,Casual Gym-Goer,,9.18281E+11
+CUST1430,50,Male,Stevenland,17-03-2022,22.08,7.4,03-02-2024,Training Wear,Online,18,130,Casual Gym-Goer,,9.18281E+11
+CUST1431,29,Other,Lake Leeton,21-02-2024,103.35,8.2,22-08-2024,Running Shoes,Online,19,82,Casual Gym-Goer,,9.18281E+11
+CUST1432,50,Female,North Micheleland,11-06-2023,490.16,9.2,27-08-2023,Gym Gear,Online,12,75,Casual Gym-Goer,,9.18281E+11
+CUST1433,46,Male,West Michael,26-06-2023,218.12,7.1,21-08-2024,Training Wear,Online,17,141,Casual Gym-Goer,,9.18281E+11
+CUST1434,58,Male,Wilkersonmouth,30-05-2023,120.66,7.2,16-07-2023,Supplements,In-Store,20,45,Health Conscious Buyer,,9.18281E+11
+CUST1435,50,Other,East Mikeburgh,29-09-2023,325.7,7.2,30-04-2024,Supplements,Online,18,170,Fitness Enthusiast,,9.18281E+11
+CUST1436,63,Female,North Amandahaven,21-12-2021,378.98,8.4,28-06-2022,Supplements,Online,0,6,Fitness Enthusiast,,9.18281E+11
+CUST1437,42,Male,Lisatown,23-03-2024,341.72,2.2,02-06-2024,Gym Gear,Online,8,15,General Buyer,,9.18281E+11
+CUST1438,62,Female,West Donald,28-02-2022,381.73,0.5,20-11-2024,Yoga Accessories,In-Store,19,143,General Buyer,,9.18281E+11
+CUST1439,32,Other,Johnfurt,16-07-2020,289.41,2.5,20-12-2020,Supplements,In-Store,12,175,Health Conscious Buyer,,9.18281E+11
+CUST1440,38,Other,Lisatown,13-03-2023,26.22,2.7,25-03-2024,Training Wear,Online,7,180,General Buyer,,9.18281E+11
+CUST1441,63,Other,Lake Larry,06-06-2021,382.45,5.6,10-10-2024,Training Wear,In-Store,6,45,General Buyer,,9.18281E+11
+CUST1442,61,Male,Adamsborough,28-02-2025,481.99,7.4,19-03-2025,Running Shoes,Online,1,142,Marathon Trainer,,9.18281E+11
+CUST1443,34,Male,South Noah,10-12-2020,300.31,2.7,14-09-2022,Supplements,Online,4,82,Fitness Enthusiast,,9.18281E+11
+CUST1444,56,Male,Lake Rebeccaside,12-03-2022,467.54,6.2,08-03-2023,Supplements,Online,18,18,Fitness Enthusiast,,9.18281E+11
+CUST1445,63,Female,South Todd,25-02-2023,125.58,2,12-10-2023,Running Shoes,In-Store,13,103,Casual Gym-Goer,,9.18281E+11
+CUST1446,23,Female,Coxberg,19-05-2020,444.03,6.7,27-09-2022,Supplements,Online,9,158,Fitness Enthusiast,,9.18281E+11
+CUST1447,51,Female,Rodneyside,03-08-2021,415.37,9.8,20-02-2022,Running Shoes,In-Store,11,164,Marathon Trainer,,9.18281E+11
+CUST1448,57,Other,South Patrickmouth,14-12-2024,480.27,6.9,31-01-2025,Supplements,Online,3,138,Fitness Enthusiast,,9.18281E+11
+CUST1449,64,Female,East Jessetown,04-11-2021,457.44,8.3,23-04-2022,Supplements,Online,15,166,Fitness Enthusiast,,9.18281E+11
+CUST1450,30,Female,North Deniseside,30-07-2020,59.53,1.1,12-09-2021,Training Wear,In-Store,20,171,Casual Gym-Goer,,9.18281E+11
+CUST1451,58,Male,Davidstad,26-06-2020,223.62,1.2,14-07-2023,Training Wear,Online,20,18,Casual Gym-Goer,,9.18281E+11
+CUST1452,65,Other,New Jessica,20-05-2022,31.4,7.2,19-11-2024,Running Shoes,In-Store,2,64,Casual Gym-Goer,,9.18281E+11
+CUST1453,53,Male,North Beth,10-02-2023,414.38,9.1,06-03-2023,Yoga Accessories,Online,14,110,General Buyer,,9.18281E+11
+CUST1454,38,Male,Martinezbury,03-11-2021,343.18,5.4,20-12-2022,Training Wear,In-Store,18,18,Casual Gym-Goer,,9.18281E+11
+CUST1455,40,Other,Lake Chad,20-10-2020,159.12,6.9,17-11-2021,Training Wear,In-Store,9,112,General Buyer,,9.18281E+11
+CUST1456,42,Female,Stewartland,09-12-2023,34.79,1.7,20-01-2025,Gym Gear,In-Store,12,139,Casual Gym-Goer,,9.18281E+11
+CUST1457,36,Other,Jacquelineland,29-04-2021,163.07,8.9,30-06-2024,Supplements,In-Store,17,36,Health Conscious Buyer,,9.18281E+11
+CUST1458,25,Male,North Judithbury,24-11-2020,294.9,4.1,12-12-2024,Training Wear,In-Store,9,88,General Buyer,,9.18281E+11
+CUST1459,31,Female,Johnfurt,03-03-2024,428.7,1.6,09-12-2024,Gym Gear,In-Store,19,49,Casual Gym-Goer,,9.18281E+11
+CUST1460,25,Male,South Christineshire,21-09-2024,403.84,8.6,09-05-2025,Training Wear,Online,20,74,Casual Gym-Goer,,9.18281E+11
+CUST1461,60,Male,Tashatown,14-04-2021,67.14,7.3,17-03-2023,Yoga Accessories,Online,11,167,General Buyer,,9.18281E+11
+CUST1462,33,Male,Teresaburgh,23-08-2024,317.37,9,17-11-2024,Supplements,Online,14,168,Fitness Enthusiast,,9.18281E+11
+CUST1463,37,Other,Lake Leeton,22-09-2020,93.15,5.8,28-02-2025,Supplements,Online,5,63,Health Conscious Buyer,,9.18281E+11
+CUST1464,32,Other,Williamview,04-12-2022,327.6,2.9,14-11-2024,Supplements,In-Store,10,118,Fitness Enthusiast,,9.18281E+11
+CUST1465,46,Female,Lake Rebeccaside,15-08-2020,166.63,5.6,19-02-2021,Gym Gear,In-Store,8,35,General Buyer,,9.18281E+11
+CUST1466,52,Male,Lake Nicoleview,07-06-2024,372.1,6.3,02-05-2025,Running Shoes,In-Store,16,148,Casual Gym-Goer,,9.18281E+11
+CUST1467,55,Female,Hoffmanville,10-10-2023,303.22,9.1,05-09-2024,Training Wear,Online,17,138,Casual Gym-Goer,,9.18281E+11
+CUST1468,48,Other,Lake Rebeccaside,11-04-2021,91.34,4,12-05-2023,Training Wear,Online,4,130,General Buyer,,9.18281E+11
+CUST1469,23,Female,Brandtside,18-02-2024,261.04,6.7,15-04-2024,Training Wear,In-Store,16,40,Casual Gym-Goer,,9.18281E+11
+CUST1470,29,Other,Mooreport,17-01-2021,336.52,9.7,14-10-2023,Yoga Accessories,Online,1,124,General Buyer,,9.18281E+11
+CUST1471,32,Male,Lake Nicoleview,14-08-2021,197.33,0.6,24-11-2021,Gym Gear,Online,12,116,Casual Gym-Goer,,9.18281E+11
+CUST1472,20,Male,Lake Debbie,07-06-2021,175.55,7.1,08-08-2022,Training Wear,Online,8,145,General Buyer,,9.18281E+11
+CUST1473,29,Female,Lake Debbie,08-01-2025,201.69,6,12-03-2025,Running Shoes,Online,12,57,Casual Gym-Goer,,9.18281E+11
+CUST1474,51,Female,West Allison,07-08-2023,412.27,3.6,13-11-2024,Yoga Accessories,In-Store,16,112,General Buyer,,9.18281E+11
+CUST1475,28,Male,North Noahstad,14-11-2024,266.98,3,10-01-2025,Gym Gear,In-Store,5,30,General Buyer,,9.18281E+11
+CUST1476,60,Male,North Micheleland,20-03-2024,409.36,7.3,16-04-2025,Yoga Accessories,Online,15,41,General Buyer,,9.18281E+11
+CUST1477,59,Female,New Roberttown,07-01-2024,136.96,1.5,24-03-2024,Training Wear,In-Store,4,10,General Buyer,,9.18281E+11
+CUST1478,54,Male,Lake Roberto,01-05-2021,99.84,9.2,15-12-2024,Training Wear,Online,19,163,Casual Gym-Goer,,9.18281E+11
+CUST1479,19,Other,Lake Matthew,17-01-2025,337.64,3,27-02-2025,Running Shoes,In-Store,14,120,Casual Gym-Goer,,9.18281E+11
+CUST1480,48,Male,Coxberg,07-01-2024,418.57,6.1,22-12-2024,Training Wear,In-Store,19,67,Casual Gym-Goer,,9.18281E+11
+CUST1481,28,Other,Davidstad,20-04-2022,184.48,4.6,22-01-2024,Training Wear,In-Store,7,33,General Buyer,,9.18281E+11
+CUST1482,24,Male,Wilkersonmouth,30-03-2023,270.9,9.1,31-12-2024,Yoga Accessories,In-Store,19,121,General Buyer,,9.18281E+11
+CUST1483,57,Other,Lake Debra,19-03-2024,441.32,5.4,22-01-2025,Running Shoes,In-Store,15,154,Casual Gym-Goer,,9.18281E+11
+CUST1484,52,Male,Lake Rebeccaside,24-11-2023,345.71,4.4,05-02-2024,Yoga Accessories,Online,1,109,General Buyer,,9.18281E+11
+CUST1485,32,Female,Hoffmanville,07-01-2023,202.99,6,30-10-2024,Training Wear,In-Store,13,122,Casual Gym-Goer,,9.18281E+11
+CUST1486,32,Male,Teresaburgh,06-01-2023,307.18,5.5,05-02-2024,Supplements,In-Store,0,1,Fitness Enthusiast,,9.18281E+11
+CUST1487,54,Other,Port Jesseville,17-07-2023,269.49,3.9,12-11-2023,Gym Gear,Online,13,39,Casual Gym-Goer,,9.18281E+11
+CUST1488,45,Other,Lake Leeton,23-05-2024,141.74,8.6,18-06-2024,Yoga Accessories,Online,19,174,General Buyer,,9.18281E+11
+CUST1489,43,Male,Lake Crystalbury,18-02-2021,285.01,5.7,02-09-2024,Gym Gear,Online,17,64,Casual Gym-Goer,,9.18281E+11
+CUST1490,37,Other,East Donna,31-01-2021,391.61,4.1,16-11-2021,Gym Gear,In-Store,7,179,General Buyer,,9.18281E+11
+CUST1491,28,Male,Juliechester,12-01-2024,264,7.9,27-03-2024,Training Wear,In-Store,5,162,General Buyer,,9.18281E+11
+CUST1492,18,Male,Jacquelineland,12-07-2023,246.4,6.1,02-04-2025,Running Shoes,In-Store,8,20,Casual Gym-Goer,,9.18281E+11
+CUST1493,56,Male,West Juan,19-06-2021,204.48,9.8,31-10-2023,Training Wear,Online,19,44,Casual Gym-Goer,,9.18281E+11
+CUST1494,58,Female,Sanchezfort,13-11-2020,25.14,8.5,03-09-2023,Training Wear,Online,6,153,General Buyer,,9.18281E+11
+CUST1495,50,Other,Bassport,25-05-2021,131.2,1.9,22-02-2023,Running Shoes,Online,7,40,Casual Gym-Goer,,9.18281E+11
+CUST1496,23,Female,Lake Rebeccaside,14-05-2023,211.73,6.8,22-03-2025,Yoga Accessories,In-Store,16,180,General Buyer,,9.18281E+11
+CUST1497,22,Male,Saramouth,16-12-2023,156.56,8.3,24-01-2024,Training Wear,Online,11,70,Casual Gym-Goer,,9.18281E+11
+CUST1498,32,Other,Jasonfort,21-10-2022,238.28,4.2,10-05-2025,Running Shoes,Online,5,27,Casual Gym-Goer,,9.18281E+11
+CUST1499,53,Male,Mortonside,06-01-2023,161.24,9.5,05-07-2024,Training Wear,Online,17,147,Casual Gym-Goer,,9.18281E+11
+CUST1500,34,Other,Sanchezfort,28-03-2021,483.71,5.7,11-09-2023,Gym Gear,Online,14,150,Casual Gym-Goer,,9.18281E+11
+CUST1501,19,Female,Port Keith,03-09-2024,143.75,4,24-11-2024,Gym Gear,In-Store,10,90,General Buyer,,9.18281E+11
+CUST1502,51,Other,East Jill,03-09-2021,356.39,2.8,19-06-2024,Supplements,In-Store,12,87,Fitness Enthusiast,,9.18281E+11
+CUST1503,22,Other,East Lydiamouth,17-06-2024,248.75,3.7,12-09-2024,Training Wear,Online,5,174,General Buyer,,9.18281E+11
+CUST1504,30,Female,Williamview,12-04-2021,115.84,7.4,07-10-2022,Supplements,In-Store,7,63,Health Conscious Buyer,,9.18281E+11
+CUST1505,57,Female,New Jessica,02-02-2025,393.89,1.4,14-04-2025,Running Shoes,Online,19,138,Casual Gym-Goer,,9.18281E+11
+CUST1506,20,Female,Lake Larry,02-05-2021,317.92,5,29-07-2024,Training Wear,Online,15,130,Casual Gym-Goer,,9.18281E+11
+CUST1507,35,Female,Coxberg,23-09-2022,380.08,1.5,02-03-2025,Training Wear,Online,15,8,Casual Gym-Goer,,9.18281E+11
+CUST1508,50,Female,West Andrewside,13-04-2022,432.99,7.8,08-02-2024,Yoga Accessories,In-Store,16,176,General Buyer,,9.18281E+11
+CUST1509,18,Male,North Amandahaven,16-02-2025,121.16,5.9,01-05-2025,Supplements,Online,19,47,Health Conscious Buyer,,9.18281E+11
+CUST1510,53,Female,East Courtneychester,03-02-2025,149.32,9.6,08-02-2025,Supplements,Online,5,53,Health Conscious Buyer,,9.18281E+11
+CUST1511,44,Other,North Matthewberg,19-08-2022,198.71,8.6,02-10-2022,Supplements,Online,5,147,Health Conscious Buyer,,9.18281E+11
+CUST1512,61,Male,New Kellystad,22-11-2021,365.99,8.1,20-01-2023,Training Wear,Online,12,38,Casual Gym-Goer,,9.18281E+11
+CUST1513,48,Male,East Lydiamouth,26-12-2022,222.33,1.5,05-06-2024,Training Wear,Online,15,143,Casual Gym-Goer,,9.18281E+11
+CUST1514,54,Male,West Andrewside,06-05-2023,67.51,1.8,10-05-2023,Gym Gear,Online,15,24,Casual Gym-Goer,,9.18281E+11
+CUST1515,46,Other,North John,25-11-2021,144.69,3.7,05-07-2022,Training Wear,Online,11,31,Casual Gym-Goer,,9.18281E+11
+CUST1516,40,Other,Port Jacobland,05-03-2025,115.5,5.8,07-05-2025,Training Wear,In-Store,9,172,General Buyer,,9.18281E+11
+CUST1517,50,Female,Lake Rebeccaside,08-10-2023,373.53,8.9,01-12-2023,Yoga Accessories,Online,14,37,General Buyer,,9.18281E+11
+CUST1518,28,Other,North Jessicaland,25-07-2021,222.47,6.2,18-09-2024,Yoga Accessories,In-Store,2,58,General Buyer,,9.18281E+11
+CUST1519,38,Female,Lake Debbie,14-08-2020,159.85,2.8,26-05-2021,Yoga Accessories,Online,14,92,General Buyer,,9.18281E+11
+CUST1520,65,Other,North Sarabury,14-11-2024,483.45,4.3,25-12-2024,Gym Gear,In-Store,4,169,General Buyer,,9.18281E+11
+CUST1521,34,Other,Bassport,23-07-2023,379.88,2.3,13-06-2024,Yoga Accessories,In-Store,3,121,General Buyer,,9.18281E+11
+CUST1522,53,Male,East Jessetown,20-03-2024,390.05,5.3,09-12-2024,Running Shoes,In-Store,8,21,Marathon Trainer,,9.18281E+11
+CUST1523,59,Female,New Stephanie,12-09-2021,130.09,7.4,09-04-2023,Yoga Accessories,In-Store,4,43,General Buyer,,9.18281E+11
+CUST1524,19,Male,Stewartland,04-01-2023,191.28,9.2,21-05-2024,Yoga Accessories,Online,17,140,General Buyer,,9.18281E+11
+CUST1525,46,Male,Bassport,09-03-2025,278.86,6,05-05-2025,Yoga Accessories,Online,16,136,General Buyer,,9.18281E+11
+CUST1526,37,Female,East Jamesside,29-01-2021,279.04,8.1,11-07-2021,Yoga Accessories,Online,11,39,General Buyer,,9.18281E+11
+CUST1527,37,Male,North Judithbury,06-09-2021,271.19,7.6,08-05-2022,Gym Gear,Online,9,2,General Buyer,,9.18281E+11
+CUST1528,62,Female,North Matthewberg,12-10-2020,248.99,0.3,22-06-2021,Yoga Accessories,Online,19,1,General Buyer,,9.18281E+11
+CUST1529,53,Female,Jasonfort,03-09-2022,217.63,5.7,22-07-2024,Yoga Accessories,In-Store,5,165,General Buyer,,9.18281E+11
+CUST1530,42,Female,Coxberg,19-12-2023,146.23,4.3,30-12-2024,Gym Gear,Online,9,136,General Buyer,,9.18281E+11
+CUST1531,35,Female,Jasonfort,13-02-2024,429.67,2,30-12-2024,Supplements,In-Store,20,115,Fitness Enthusiast,,9.18281E+11
+CUST1532,35,Other,New Brooke,06-09-2022,256.16,3.3,06-08-2023,Gym Gear,In-Store,17,26,Casual Gym-Goer,,9.18281E+11
+CUST1533,36,Female,Ramirezstad,18-09-2024,363.29,7.3,01-11-2024,Gym Gear,In-Store,4,55,General Buyer,,9.18281E+11
+CUST1534,39,Female,New Stephanie,18-04-2023,397.15,5.1,16-03-2024,Supplements,Online,1,37,Fitness Enthusiast,,9.18281E+11
+CUST1535,21,Female,Lake Rebeccaside,20-04-2021,208.36,5.5,04-07-2022,Gym Gear,In-Store,8,3,General Buyer,,9.18281E+11
+CUST1536,25,Other,South Patrickmouth,30-06-2024,204.7,9.8,20-01-2025,Gym Gear,In-Store,6,24,General Buyer,,9.18281E+11
+CUST1537,51,Other,West Donald,25-12-2022,246.96,6.9,05-03-2023,Supplements,Online,5,10,Health Conscious Buyer,,9.18281E+11
+CUST1538,65,Other,North Sarabury,27-03-2022,78.63,4.9,01-12-2023,Supplements,In-Store,11,170,Health Conscious Buyer,,9.18281E+11
+CUST1539,31,Male,East Courtneychester,28-10-2020,323.8,3.4,20-11-2020,Gym Gear,Online,18,62,Casual Gym-Goer,,9.18281E+11
+CUST1540,18,Male,Lake Leeton,05-02-2022,396.07,4.9,19-05-2023,Training Wear,In-Store,11,63,Casual Gym-Goer,,9.18281E+11
+CUST1541,28,Female,Herrerafurt,26-02-2022,349.25,3.5,27-09-2022,Running Shoes,In-Store,11,179,Casual Gym-Goer,,9.18281E+11
+CUST1542,52,Male,Ramirezstad,13-07-2022,254.16,3.3,05-10-2023,Training Wear,Online,14,5,Casual Gym-Goer,,9.18281E+11
+CUST1543,62,Female,West Allison,24-02-2023,367.71,2.7,29-08-2023,Running Shoes,Online,14,138,Casual Gym-Goer,,9.18281E+11
+CUST1544,62,Female,Jasonfort,04-06-2020,292.02,5.5,27-08-2024,Supplements,Online,8,153,Health Conscious Buyer,,9.18281E+11
+CUST1545,53,Male,Ericmouth,08-01-2024,274.95,4.6,23-05-2024,Supplements,Online,14,163,Health Conscious Buyer,,9.18281E+11
+CUST1546,50,Female,Lake Matthew,16-06-2021,109.06,0.4,27-01-2023,Supplements,In-Store,10,168,Health Conscious Buyer,,9.18281E+11
+CUST1547,52,Female,Jasonfort,20-11-2024,271.55,5.1,05-04-2025,Training Wear,In-Store,19,104,Casual Gym-Goer,,9.18281E+11
+CUST1548,59,Female,Port Keith,25-04-2022,66.2,6.7,10-06-2024,Running Shoes,In-Store,5,51,Casual Gym-Goer,,9.18281E+11
+CUST1549,24,Female,Jasonfort,09-02-2025,67.4,5.8,30-04-2025,Yoga Accessories,Online,16,151,General Buyer,,9.18281E+11
+CUST1550,34,Male,Brandtside,16-05-2023,125.95,7.2,10-07-2023,Running Shoes,In-Store,20,20,Casual Gym-Goer,,9.18281E+11
+CUST1551,47,Other,Lake Roberto,26-09-2023,193.24,7.5,24-04-2025,Yoga Accessories,Online,1,68,General Buyer,,9.18281E+11
+CUST1552,51,Male,Lake Matthew,19-09-2020,53.79,3.2,05-06-2024,Gym Gear,In-Store,3,136,General Buyer,,9.18281E+11
+CUST1553,42,Male,Jasonfort,08-07-2020,272.57,2.6,05-06-2024,Gym Gear,Online,3,147,General Buyer,,9.18281E+11
+CUST1554,40,Other,Gomezchester,07-01-2021,357.22,4.4,06-09-2023,Running Shoes,In-Store,5,129,Casual Gym-Goer,,9.18281E+11
+CUST1555,39,Other,South Noah,03-04-2025,276.27,6.1,23-04-2025,Supplements,Online,17,83,Health Conscious Buyer,,9.18281E+11
+CUST1556,41,Female,Evanmouth,27-03-2025,323.96,8.3,15-04-2025,Supplements,In-Store,18,96,Fitness Enthusiast,,9.18281E+11
+CUST1557,53,Other,Tashatown,29-11-2023,192.8,4.6,10-07-2024,Yoga Accessories,In-Store,1,152,General Buyer,,9.18281E+11
+CUST1558,19,Other,West Michael,03-05-2021,496.84,3.2,22-01-2023,Supplements,In-Store,6,5,Fitness Enthusiast,,9.18281E+11
+CUST1559,62,Female,Saramouth,14-07-2020,265.41,5.8,19-04-2023,Training Wear,In-Store,3,91,General Buyer,,9.18281E+11
+CUST1560,27,Male,Lake Nicoleview,26-10-2021,196.2,5.9,23-03-2025,Gym Gear,Online,9,102,General Buyer,,9.18281E+11
+CUST1561,54,Male,Lake Matthew,09-04-2024,57.06,3.4,15-01-2025,Yoga Accessories,In-Store,15,176,General Buyer,,9.18281E+11
+CUST1562,62,Other,New Kellystad,08-02-2021,305.71,3.1,26-10-2024,Training Wear,Online,2,85,General Buyer,,9.18281E+11
+CUST1563,40,Female,North Micheleland,04-04-2021,466.52,1.4,16-04-2022,Gym Gear,In-Store,20,97,Casual Gym-Goer,,9.18281E+11
+CUST1564,21,Female,South Todd,24-01-2024,39.77,5.5,25-04-2025,Gym Gear,Online,16,39,Casual Gym-Goer,,9.18281E+11
+CUST1565,21,Other,Lake Matthew,07-10-2023,498.74,9.7,16-11-2024,Training Wear,In-Store,7,100,General Buyer,,9.18281E+11
+CUST1566,27,Male,North Jessicaland,10-01-2021,59.62,5.8,23-05-2024,Running Shoes,Online,8,128,Casual Gym-Goer,,9.18281E+11
+CUST1567,45,Other,Ramirezstad,30-12-2022,385.78,4.9,09-06-2024,Gym Gear,Online,12,50,Casual Gym-Goer,,9.18281E+11
+CUST1568,53,Other,Williamview,30-03-2022,271.64,2.6,29-08-2023,Supplements,Online,10,147,Health Conscious Buyer,,9.18281E+11
+CUST1569,23,Male,South Christineshire,15-10-2021,218.52,3.8,10-02-2022,Gym Gear,Online,11,6,Casual Gym-Goer,,9.18281E+11
+CUST1570,37,Male,East Donna,13-09-2024,315.79,9.9,27-10-2024,Yoga Accessories,In-Store,14,59,General Buyer,,9.18281E+11
+CUST1571,30,Other,Lake Larry,14-11-2024,94.88,7.3,21-02-2025,Running Shoes,In-Store,1,158,Casual Gym-Goer,,9.18281E+11
+CUST1572,27,Female,East Jill,03-01-2022,184.77,8.1,22-04-2025,Supplements,Online,15,53,Health Conscious Buyer,,9.18281E+11
+CUST1573,65,Other,Juliechester,01-05-2023,117.82,5.3,28-01-2024,Supplements,Online,19,36,Health Conscious Buyer,,9.18281E+11
+CUST1574,62,Other,South Christineshire,12-08-2021,28.83,5.9,14-08-2022,Training Wear,In-Store,8,72,General Buyer,,9.18281E+11
+CUST1575,30,Other,New Brooke,26-03-2021,150.22,4.8,08-11-2021,Running Shoes,In-Store,12,169,Casual Gym-Goer,,9.18281E+11
+CUST1576,60,Female,Lake Chad,15-07-2022,29.16,8.7,17-05-2023,Yoga Accessories,In-Store,12,25,General Buyer,,9.18281E+11
+CUST1577,38,Female,North Susan,01-11-2021,275.15,2,24-05-2024,Training Wear,Online,17,5,Casual Gym-Goer,,9.18281E+11
+CUST1578,20,Male,South Todd,28-08-2021,166.37,5,20-11-2024,Gym Gear,In-Store,11,90,Casual Gym-Goer,,9.18281E+11
+CUST1579,58,Female,East Courtneychester,31-12-2020,498.08,9.8,04-07-2022,Supplements,In-Store,20,99,Fitness Enthusiast,,9.18281E+11
+CUST1580,19,Other,South Aaron,24-07-2024,128.28,3.5,20-01-2025,Yoga Accessories,In-Store,2,133,General Buyer,,9.18281E+11
+CUST1581,61,Other,South Dianeshire,25-02-2025,349.53,4.3,09-05-2025,Training Wear,In-Store,13,154,Casual Gym-Goer,,9.18281E+11
+CUST1582,39,Female,East Nicholasfurt,05-03-2024,83.25,6.6,11-11-2024,Training Wear,In-Store,4,180,General Buyer,,9.18281E+11
+CUST1583,51,Male,New David,18-01-2023,497.93,9.8,09-09-2023,Gym Gear,In-Store,10,136,General Buyer,,9.18281E+11
+CUST1584,64,Male,Adamsborough,06-02-2024,172.45,8.8,30-03-2024,Running Shoes,Online,13,77,Casual Gym-Goer,,9.18281E+11
+CUST1585,46,Other,Sarahborough,06-05-2024,467.96,2.9,24-10-2024,Gym Gear,In-Store,4,156,General Buyer,,9.18281E+11
+CUST1586,57,Female,Port Jacobland,07-12-2022,292.18,2.5,06-02-2024,Gym Gear,In-Store,0,176,General Buyer,,9.18281E+11
+CUST1587,48,Male,Mortonside,01-11-2020,426.15,4.8,30-10-2023,Supplements,In-Store,12,35,Fitness Enthusiast,,9.18281E+11
+CUST1588,28,Male,Coxberg,03-09-2024,35.47,7.7,01-10-2024,Running Shoes,Online,13,171,Casual Gym-Goer,,9.18281E+11
+CUST1589,30,Male,Ericmouth,31-12-2022,105,9.6,17-12-2024,Yoga Accessories,Online,10,63,General Buyer,,9.18281E+11
+CUST1590,45,Female,Lake Rebeccaside,15-03-2024,40.08,7.4,13-04-2024,Yoga Accessories,Online,12,146,General Buyer,,9.18281E+11
+CUST1591,56,Other,South Todd,03-11-2020,327.87,7.1,23-12-2023,Running Shoes,In-Store,14,10,Casual Gym-Goer,,9.18281E+11
+CUST1592,33,Other,Port Richard,19-10-2022,209.89,7.4,15-02-2023,Training Wear,Online,16,12,Casual Gym-Goer,,9.18281E+11
+CUST1593,30,Female,Sanchezfort,15-02-2021,211.06,3.2,28-09-2023,Supplements,Online,5,156,Health Conscious Buyer,,9.18281E+11
+CUST1594,21,Other,North Sarabury,02-09-2024,453.76,4.7,29-01-2025,Yoga Accessories,In-Store,16,149,General Buyer,,9.18281E+11
+CUST1595,62,Other,West Michael,17-04-2024,208.67,3.4,18-05-2024,Running Shoes,In-Store,14,51,Casual Gym-Goer,,9.18281E+11
+CUST1596,47,Male,Tashatown,08-03-2024,175.56,6.6,01-08-2024,Gym Gear,In-Store,2,115,General Buyer,,9.18281E+11
+CUST1597,58,Female,Cassandraton,03-02-2023,271.43,4,10-02-2025,Training Wear,In-Store,12,11,Casual Gym-Goer,,9.18281E+11
+CUST1598,28,Female,Mooreport,15-08-2024,438.23,8.7,12-10-2024,Gym Gear,In-Store,5,13,General Buyer,,9.18281E+11
+CUST1599,44,Female,New Stephanie,19-11-2020,370.48,9.6,18-09-2024,Supplements,In-Store,3,51,Fitness Enthusiast,,9.18281E+11
+CUST1600,18,Other,Evanmouth,28-03-2021,141.49,4.7,07-09-2024,Yoga Accessories,In-Store,19,60,General Buyer,,9.18281E+11
+CUST1601,31,Other,Stewartland,13-04-2023,248.34,4.2,18-10-2024,Running Shoes,In-Store,7,71,Casual Gym-Goer,,9.18281E+11
+CUST1602,57,Other,Rodneyside,28-01-2021,413.66,2.2,18-07-2022,Gym Gear,In-Store,1,9,General Buyer,,9.18281E+11
+CUST1603,27,Male,South Christineshire,09-09-2020,297.48,6.1,18-10-2022,Supplements,In-Store,1,45,Health Conscious Buyer,,9.18281E+11
+CUST1604,28,Other,Teresaburgh,31-01-2024,313.32,7,06-01-2025,Training Wear,In-Store,14,92,Casual Gym-Goer,,9.18281E+11
+CUST1605,20,Male,Hoffmanville,25-10-2024,163.66,3.8,25-12-2024,Yoga Accessories,In-Store,13,16,General Buyer,,9.18281E+11
+CUST1606,36,Female,West Michael,15-06-2023,78.57,8.6,30-03-2024,Supplements,Online,16,53,Health Conscious Buyer,,9.18281E+11
+CUST1607,57,Male,Lake Chad,06-10-2022,294.26,9.8,29-05-2024,Training Wear,In-Store,15,154,Casual Gym-Goer,,9.18281E+11
+CUST1608,63,Female,West Elizabeth,02-11-2023,312.25,3.3,21-07-2024,Training Wear,Online,4,127,General Buyer,,9.18281E+11
+CUST1609,51,Other,South Dianeshire,20-10-2020,258.92,8.1,25-08-2023,Training Wear,In-Store,9,0,General Buyer,,9.18281E+11
+CUST1610,25,Male,Shieldston,01-12-2020,320.22,1.4,21-09-2023,Gym Gear,Online,13,89,Casual Gym-Goer,,9.18281E+11
+CUST1611,53,Other,Juliechester,28-02-2021,25.42,2.2,14-07-2023,Supplements,Online,2,129,Health Conscious Buyer,,9.18281E+11
+CUST1612,53,Female,Hoffmanville,25-08-2023,22.94,6.9,01-04-2024,Supplements,Online,18,7,Health Conscious Buyer,,9.18281E+11
+CUST1613,29,Male,North John,02-07-2022,420.24,9.2,16-04-2025,Yoga Accessories,Online,1,123,General Buyer,,9.18281E+11
+CUST1614,27,Other,Gomezchester,21-08-2021,448.19,5.5,20-01-2023,Supplements,Online,13,14,Fitness Enthusiast,,9.18281E+11
+CUST1615,51,Female,Mooreport,19-01-2021,367.98,3.3,03-04-2022,Training Wear,In-Store,6,84,General Buyer,,9.18281E+11
+CUST1616,40,Male,New Jessica,02-05-2023,154.62,0.5,28-12-2023,Yoga Accessories,In-Store,18,47,General Buyer,,9.18281E+11
+CUST1617,56,Male,North Matthewberg,10-09-2023,167.98,8.6,19-12-2023,Running Shoes,Online,13,60,Casual Gym-Goer,,9.18281E+11
+CUST1618,41,Female,East Nathaniel,29-01-2021,123.75,3.2,17-09-2023,Running Shoes,Online,1,23,Casual Gym-Goer,,9.18281E+11
+CUST1619,46,Other,East Jessetown,10-02-2025,403.53,9.1,18-03-2025,Gym Gear,In-Store,10,134,General Buyer,,9.18281E+11
+CUST1620,37,Female,Jacquelineland,25-02-2023,389.35,1.2,11-09-2023,Training Wear,In-Store,6,117,General Buyer,,9.18281E+11
+CUST1621,42,Other,North Sarabury,01-11-2024,75.6,3.2,19-11-2024,Running Shoes,In-Store,10,11,Casual Gym-Goer,,9.18281E+11
+CUST1622,24,Other,Hoffmanville,17-12-2023,336.31,3.3,14-01-2025,Training Wear,Online,20,82,Casual Gym-Goer,,9.18281E+11
+CUST1623,30,Male,Teresaburgh,09-06-2023,152.79,3.3,23-06-2023,Yoga Accessories,In-Store,8,70,General Buyer,,9.18281E+11
+CUST1624,25,Male,New Brooke,11-06-2023,288.62,1.2,05-02-2024,Training Wear,Online,17,36,Casual Gym-Goer,,9.18281E+11
+CUST1625,63,Female,North Beth,22-11-2021,137.52,0.9,20-10-2022,Training Wear,Online,17,33,Casual Gym-Goer,,9.18281E+11
+CUST1626,19,Female,North Amandahaven,07-04-2023,44.22,4,12-04-2025,Running Shoes,Online,12,152,Casual Gym-Goer,,9.18281E+11
+CUST1627,55,Other,East Mikeburgh,29-06-2024,355.7,6.2,11-09-2024,Supplements,Online,6,171,Fitness Enthusiast,,9.18281E+11
+CUST1628,52,Male,North Matthewberg,14-04-2022,386.93,5.8,13-11-2022,Running Shoes,Online,3,175,Marathon Trainer,,9.18281E+11
+CUST1629,59,Other,Hoffmanville,04-09-2021,243.39,2.5,01-01-2022,Gym Gear,In-Store,19,93,Casual Gym-Goer,,9.18281E+11
+CUST1630,43,Male,Bassport,15-11-2022,460.29,3.4,21-04-2023,Supplements,Online,15,121,Fitness Enthusiast,,9.18281E+11
+CUST1631,25,Female,East Jamesside,04-09-2024,241.4,1.9,01-04-2025,Supplements,In-Store,16,27,Health Conscious Buyer,,9.18281E+11
+CUST1632,38,Other,Lake Debbie,01-11-2024,54.04,3.2,08-11-2024,Yoga Accessories,Online,18,158,General Buyer,,9.18281E+11
+CUST1633,33,Other,South Noah,23-03-2023,487.47,4,12-10-2023,Supplements,In-Store,18,111,Fitness Enthusiast,,9.18281E+11
+CUST1634,54,Female,East Nicholasfurt,25-07-2023,353.18,1.9,21-11-2023,Running Shoes,Online,3,118,Casual Gym-Goer,,9.18281E+11
+CUST1635,38,Other,New Kellystad,27-09-2021,414.57,1.9,04-07-2022,Yoga Accessories,In-Store,19,152,General Buyer,,9.18281E+11
+CUST1636,42,Female,Stevenland,07-10-2021,329.59,0.8,31-10-2024,Gym Gear,In-Store,18,162,Casual Gym-Goer,,9.18281E+11
+CUST1637,18,Male,Stewartland,30-01-2024,91.62,5.4,03-03-2024,Yoga Accessories,Online,6,81,General Buyer,,9.18281E+11
+CUST1638,37,Other,North Amandahaven,08-11-2023,166.18,9.4,16-08-2024,Yoga Accessories,Online,2,156,General Buyer,,9.18281E+11
+CUST1639,50,Female,Ramirezstad,18-05-2022,429.2,0.8,07-04-2024,Training Wear,In-Store,0,91,General Buyer,,9.18281E+11
+CUST1640,25,Female,East Jessetown,13-10-2022,132.92,7.1,09-09-2024,Yoga Accessories,Online,12,111,General Buyer,,9.18281E+11
+CUST1641,52,Male,Stewartland,08-05-2022,103.24,1.6,14-08-2024,Training Wear,Online,11,39,Casual Gym-Goer,,9.18281E+11
+CUST1642,36,Other,Ramirezstad,24-05-2022,84.45,0.9,16-09-2023,Running Shoes,In-Store,15,34,Casual Gym-Goer,,9.18281E+11
+CUST1643,23,Male,Johnfurt,07-05-2024,406.85,8.6,23-04-2025,Training Wear,Online,19,130,Casual Gym-Goer,,9.18281E+11
+CUST1644,45,Other,Leeville,03-01-2022,204.66,2.4,28-07-2023,Yoga Accessories,In-Store,18,60,General Buyer,,9.18281E+11
+CUST1645,63,Other,Danielchester,18-03-2025,217.2,5.6,29-04-2025,Supplements,In-Store,1,180,Health Conscious Buyer,,9.18281E+11
+CUST1646,41,Male,Lake Leeton,14-04-2024,251.14,7,18-11-2024,Gym Gear,Online,14,133,Casual Gym-Goer,,9.18281E+11
+CUST1647,57,Male,South Patrickmouth,10-08-2023,246.78,7.5,03-09-2024,Running Shoes,Online,19,87,Casual Gym-Goer,,9.18281E+11
+CUST1648,52,Male,North Richardmouth,04-11-2024,237.94,9.1,24-01-2025,Training Wear,Online,13,75,Casual Gym-Goer,,9.18281E+11
+CUST1649,36,Male,Lake Debra,26-09-2021,353.62,6.1,17-03-2025,Supplements,Online,1,148,Fitness Enthusiast,,9.18281E+11
+CUST1650,28,Other,Lisatown,21-01-2022,335.03,3.1,17-08-2024,Training Wear,In-Store,9,32,General Buyer,,9.18281E+11
+CUST1651,50,Male,South Aaron,14-07-2021,140.98,6.2,31-03-2025,Supplements,Online,0,154,Health Conscious Buyer,,9.18281E+11
+CUST1652,29,Other,Williamview,26-06-2022,92.55,4.6,15-09-2022,Gym Gear,Online,7,135,General Buyer,,9.18281E+11
+CUST1653,20,Female,Cassandraton,12-06-2024,484.33,6,03-11-2024,Gym Gear,Online,13,60,Casual Gym-Goer,,9.18281E+11
+CUST1654,60,Female,West Juan,27-01-2025,326.04,2.3,15-02-2025,Supplements,In-Store,20,29,Fitness Enthusiast,,9.18281E+11
+CUST1655,21,Male,Shieldston,29-09-2024,211.4,3.2,16-11-2024,Training Wear,In-Store,12,99,Casual Gym-Goer,,9.18281E+11
+CUST1656,48,Female,Jacquelineland,13-10-2022,274.61,4.5,20-02-2023,Supplements,Online,12,135,Health Conscious Buyer,,9.18281E+11
+CUST1657,61,Male,New Kellystad,21-09-2021,460.5,6.4,18-11-2022,Yoga Accessories,Online,10,25,General Buyer,,9.18281E+11
+CUST1658,34,Other,Lake Leeton,06-03-2024,207.75,7.8,08-04-2025,Gym Gear,In-Store,16,176,Casual Gym-Goer,,9.18281E+11
+CUST1659,29,Female,Saramouth,11-08-2021,25.08,0.3,21-02-2025,Running Shoes,In-Store,13,26,Casual Gym-Goer,,9.18281E+11
+CUST1660,61,Female,East Donna,30-01-2024,125.32,3,10-04-2024,Gym Gear,In-Store,0,14,General Buyer,,9.18281E+11
+CUST1661,56,Other,Juliechester,31-03-2022,476.23,6.5,29-02-2024,Running Shoes,In-Store,19,168,Casual Gym-Goer,,9.18281E+11
+CUST1662,59,Other,Adamsborough,02-05-2023,450.08,7,23-04-2025,Supplements,Online,14,19,Fitness Enthusiast,,9.18281E+11
+CUST1663,58,Female,South Aaron,01-08-2020,389.29,7,11-02-2024,Supplements,Online,5,70,Fitness Enthusiast,,9.18281E+11
+CUST1664,21,Female,Martinezbury,23-10-2020,179.67,0.8,07-03-2024,Supplements,In-Store,14,51,Health Conscious Buyer,,9.18281E+11
+CUST1665,57,Female,East Lydiamouth,17-08-2024,329.83,1.3,09-01-2025,Training Wear,Online,6,27,General Buyer,,9.18281E+11
+CUST1666,46,Other,Lake Nicoleview,13-05-2022,69.58,0.9,02-01-2024,Training Wear,Online,14,127,Casual Gym-Goer,,9.18281E+11
+CUST1667,27,Other,Sarahborough,19-01-2021,20.42,0.6,28-03-2024,Yoga Accessories,Online,4,100,General Buyer,,9.18281E+11
+CUST1668,54,Male,North Deniseside,08-04-2022,359.65,7.8,21-05-2022,Yoga Accessories,Online,12,17,General Buyer,,9.18281E+11
+CUST1669,52,Male,North Judithbury,26-01-2023,204.52,7,28-06-2023,Yoga Accessories,In-Store,18,91,General Buyer,,9.18281E+11
+CUST1670,39,Other,East Nathaniel,18-03-2023,212.3,6.4,30-10-2023,Running Shoes,Online,17,87,Casual Gym-Goer,,9.18281E+11
+CUST1671,23,Female,Evanmouth,12-07-2021,387.92,6.5,09-09-2021,Gym Gear,In-Store,12,76,Casual Gym-Goer,,9.18281E+11
+CUST1672,62,Female,Lake Chad,19-10-2022,322.7,3.7,21-10-2024,Running Shoes,Online,6,49,Casual Gym-Goer,,9.18281E+11
+CUST1673,19,Other,Shawhaven,16-07-2021,134.47,4,06-10-2024,Training Wear,Online,15,115,Casual Gym-Goer,,9.18281E+11
+CUST1674,19,Male,North Jessicaland,07-05-2024,46.91,7.9,28-10-2024,Running Shoes,Online,3,167,Casual Gym-Goer,,9.18281E+11
+CUST1675,60,Other,Gomezchester,27-05-2020,471.24,8.7,28-01-2021,Training Wear,In-Store,18,18,Casual Gym-Goer,,9.18281E+11
+CUST1676,20,Other,Jacquelineland,09-07-2020,254.67,0.4,12-09-2022,Training Wear,In-Store,7,33,General Buyer,,9.18281E+11
+CUST1677,18,Male,South Dianeshire,12-03-2022,43.98,3.2,30-10-2022,Running Shoes,Online,19,151,Casual Gym-Goer,,9.18281E+11
+CUST1678,22,Male,Port Keith,10-01-2025,258.63,8,08-05-2025,Gym Gear,In-Store,6,173,General Buyer,,9.18281E+11
+CUST1679,43,Female,Port Jesseville,05-11-2024,488.41,5.8,26-01-2025,Gym Gear,Online,6,151,General Buyer,,9.18281E+11
+CUST1680,29,Female,Ericmouth,21-04-2021,77.96,1.6,08-08-2024,Yoga Accessories,In-Store,11,112,General Buyer,,9.18281E+11
+CUST1681,33,Other,Robinsonshire,23-10-2022,84.02,8,27-10-2023,Training Wear,Online,5,124,General Buyer,,9.18281E+11
+CUST1682,23,Male,North Judithbury,02-12-2022,106.12,1.1,09-06-2023,Training Wear,Online,13,121,Casual Gym-Goer,,9.18281E+11
+CUST1683,62,Male,West Donald,06-10-2020,88.68,2.9,16-10-2022,Yoga Accessories,Online,7,156,General Buyer,,9.18281E+11
+CUST1684,62,Male,North Susan,06-12-2023,106.4,5.1,15-04-2025,Running Shoes,Online,11,142,Casual Gym-Goer,,9.18281E+11
+CUST1685,33,Male,Port Jesseville,31-03-2024,493.57,9.8,18-05-2024,Training Wear,Online,17,118,Casual Gym-Goer,,9.18281E+11
+CUST1686,58,Other,West Donald,20-04-2021,152.68,2.1,09-11-2024,Gym Gear,Online,15,171,Casual Gym-Goer,,9.18281E+11
+CUST1687,20,Male,Johnfurt,10-08-2024,194.81,2.3,29-03-2025,Supplements,Online,19,116,Health Conscious Buyer,,9.18281E+11
+CUST1688,20,Male,Williamview,01-12-2024,45.18,5.5,04-12-2024,Gym Gear,In-Store,15,18,Casual Gym-Goer,,9.18281E+11
+CUST1689,33,Other,Sanchezfort,28-09-2024,304.5,3.4,09-05-2025,Gym Gear,Online,7,83,General Buyer,,9.18281E+11
+CUST1690,32,Male,East Courtneychester,01-06-2022,374.12,8.7,10-01-2023,Yoga Accessories,In-Store,2,124,General Buyer,,9.18281E+11
+CUST1691,21,Female,Jacquelineland,01-11-2022,123.76,6.2,28-08-2024,Gym Gear,Online,11,49,Casual Gym-Goer,,9.18281E+11
+CUST1692,58,Female,Danielchester,15-05-2020,117.06,1.4,16-05-2023,Training Wear,In-Store,8,119,General Buyer,,9.18281E+11
+CUST1693,47,Female,Lake Mark,28-05-2022,384.96,2.4,30-10-2024,Supplements,In-Store,20,43,Fitness Enthusiast,,9.18281E+11
+CUST1694,54,Other,Daviston,26-11-2023,61.51,8.6,19-04-2024,Yoga Accessories,In-Store,18,118,General Buyer,,9.18281E+11
+CUST1695,35,Male,Lake Matthew,31-01-2021,225.49,8.8,25-02-2024,Gym Gear,Online,13,151,Casual Gym-Goer,,9.18281E+11
+CUST1696,27,Other,North Judithbury,07-12-2020,220.53,0.6,01-04-2025,Yoga Accessories,In-Store,13,122,General Buyer,,9.18281E+11
+CUST1697,62,Male,Leeville,04-09-2024,257.74,1,07-04-2025,Running Shoes,Online,6,75,Casual Gym-Goer,,9.18281E+11
+CUST1698,33,Other,Herrerafurt,13-07-2020,27.65,6.8,08-11-2023,Gym Gear,Online,18,6,Casual Gym-Goer,,9.18281E+11
+CUST1699,47,Female,Hoffmanville,10-05-2024,86.54,7.1,26-05-2024,Gym Gear,Online,20,162,Casual Gym-Goer,,9.18281E+11
+CUST1700,18,Other,North Noahstad,25-08-2023,204.74,7,09-06-2024,Training Wear,In-Store,9,69,General Buyer,,9.18281E+11
+CUST1701,62,Other,East Nicholasfurt,08-07-2022,296.11,2.2,02-08-2022,Running Shoes,Online,1,172,Casual Gym-Goer,,9.18281E+11
+CUST1702,41,Male,Port Keith,25-05-2023,203.82,4.8,26-01-2025,Running Shoes,Online,11,143,Casual Gym-Goer,,9.18281E+11
+CUST1703,63,Male,Rodneyside,06-12-2020,360.48,2.2,12-11-2023,Supplements,In-Store,17,122,Fitness Enthusiast,,9.18281E+11
+CUST1704,65,Other,Bassport,30-05-2022,120.7,7.5,15-03-2025,Gym Gear,Online,11,128,Casual Gym-Goer,,9.18281E+11
+CUST1705,61,Female,South Aaron,29-03-2021,46.14,3.9,09-07-2024,Yoga Accessories,Online,16,31,General Buyer,,9.18281E+11
+CUST1706,48,Other,Port Richard,10-03-2023,345.59,5.4,03-10-2023,Supplements,Online,19,172,Fitness Enthusiast,,9.18281E+11
+CUST1707,62,Male,Jasonfort,25-09-2020,448.11,4.7,24-09-2023,Running Shoes,Online,5,19,Casual Gym-Goer,,9.18281E+11
+CUST1708,24,Male,South Aaron,01-01-2025,73.77,1.6,07-03-2025,Gym Gear,In-Store,16,5,Casual Gym-Goer,,9.18281E+11
+CUST1709,36,Female,Davidstad,05-11-2021,279.89,1.5,27-02-2025,Supplements,Online,14,5,Health Conscious Buyer,,9.18281E+11
+CUST1710,36,Male,Ericmouth,23-04-2024,30.58,8.1,08-05-2025,Training Wear,Online,13,167,Casual Gym-Goer,,9.18281E+11
+CUST1711,59,Female,Taylorburgh,05-06-2024,304.81,7,05-02-2025,Training Wear,Online,14,33,Casual Gym-Goer,,9.18281E+11
+CUST1712,37,Male,Lake Nicoleview,28-11-2021,128.86,3.8,11-05-2025,Supplements,In-Store,4,116,Health Conscious Buyer,,9.18281E+11
+CUST1713,28,Other,South Noah,03-07-2021,361.67,3,09-10-2021,Gym Gear,In-Store,5,10,General Buyer,,9.18281E+11
+CUST1714,38,Other,Ramirezstad,01-04-2024,231.63,3.8,29-04-2024,Gym Gear,In-Store,10,37,General Buyer,,9.18281E+11
+CUST1715,41,Female,East Nicholasfurt,08-11-2022,488.22,5.4,17-09-2023,Running Shoes,In-Store,12,37,Casual Gym-Goer,,9.18281E+11
+CUST1716,47,Female,New Jessica,24-09-2020,22.06,7.4,05-06-2022,Training Wear,Online,20,121,Casual Gym-Goer,,9.18281E+11
+CUST1717,36,Other,South Christineshire,18-09-2020,90.6,5.7,26-05-2023,Yoga Accessories,Online,3,10,General Buyer,,9.18281E+11
+CUST1718,26,Other,Saramouth,30-12-2022,76.1,0.4,09-03-2025,Training Wear,In-Store,14,83,Casual Gym-Goer,,9.18281E+11
+CUST1719,21,Other,Johnfurt,30-09-2023,113.67,5.4,24-11-2024,Supplements,In-Store,0,114,Health Conscious Buyer,,9.18281E+11
+CUST1720,61,Other,Herrerafurt,20-05-2024,488.4,4.1,26-08-2024,Yoga Accessories,Online,19,14,General Buyer,,9.18281E+11
+CUST1721,60,Female,West Andrewside,01-09-2020,91.01,8.6,17-04-2022,Supplements,Online,11,88,Health Conscious Buyer,,9.18281E+11
+CUST1722,40,Female,Leeville,16-10-2022,439.66,1.1,22-04-2024,Yoga Accessories,Online,14,108,General Buyer,,9.18281E+11
+CUST1723,64,Female,West Michael,06-10-2020,421.05,6.1,03-08-2023,Gym Gear,In-Store,9,134,General Buyer,,9.18281E+11
+CUST1724,39,Male,Shawhaven,06-09-2022,382.93,1.1,18-03-2023,Yoga Accessories,Online,13,118,General Buyer,,9.18281E+11
+CUST1725,63,Other,North Matthewberg,28-06-2023,459.14,2.2,01-06-2024,Yoga Accessories,Online,17,77,General Buyer,,9.18281E+11
+CUST1726,55,Female,Stevenland,05-10-2023,288.45,4.7,04-05-2025,Running Shoes,In-Store,4,163,Casual Gym-Goer,,9.18281E+11
+CUST1727,58,Female,Port Jesseville,06-02-2024,333.83,8.9,02-12-2024,Yoga Accessories,In-Store,15,165,General Buyer,,9.18281E+11
+CUST1728,33,Male,Port Jesseville,30-03-2023,387.06,5,24-04-2025,Running Shoes,Online,18,111,Casual Gym-Goer,,9.18281E+11
+CUST1729,34,Other,Davidstad,12-12-2021,248.5,7,21-01-2024,Running Shoes,Online,16,4,Casual Gym-Goer,,9.18281E+11
+CUST1730,34,Male,Lake Leeton,03-08-2024,48.08,3.3,23-12-2024,Gym Gear,Online,5,92,General Buyer,,9.18281E+11
+CUST1731,44,Other,West Allison,10-10-2024,43.38,3.1,21-01-2025,Running Shoes,In-Store,20,24,Casual Gym-Goer,,9.18281E+11
+CUST1732,56,Male,East Nicholasfurt,22-01-2021,174.85,3.3,01-09-2024,Supplements,Online,11,148,Health Conscious Buyer,,9.18281E+11
+CUST1733,40,Male,East Jill,11-01-2021,85.74,3,09-09-2024,Yoga Accessories,Online,10,41,General Buyer,,9.18281E+11
+CUST1734,24,Male,New Jessica,22-11-2021,261.62,8.3,18-03-2024,Training Wear,In-Store,13,19,Casual Gym-Goer,,9.18281E+11
+CUST1735,25,Male,New Roberttown,09-11-2022,250.17,3.3,21-03-2024,Supplements,In-Store,14,152,Health Conscious Buyer,,9.18281E+11
+CUST1736,51,Female,East Lydiamouth,25-03-2021,360.75,0.5,27-07-2021,Running Shoes,In-Store,4,36,Casual Gym-Goer,,9.18281E+11
+CUST1737,62,Male,New Stephanie,23-02-2023,80.17,1.5,27-05-2024,Running Shoes,Online,3,123,Casual Gym-Goer,,9.18281E+11
+CUST1738,45,Male,Wilkersonmouth,19-12-2022,71.75,8,10-11-2024,Training Wear,In-Store,15,64,Casual Gym-Goer,,9.18281E+11
+CUST1739,20,Male,East Nathaniel,25-12-2023,340.44,7.6,02-05-2024,Running Shoes,In-Store,18,47,Casual Gym-Goer,,9.18281E+11
+CUST1740,60,Female,East Jessetown,19-02-2024,63.57,8.5,18-11-2024,Supplements,Online,11,128,Health Conscious Buyer,,9.18281E+11
+CUST1741,64,Other,East Courtneychester,29-02-2024,262.36,0.9,01-04-2024,Training Wear,In-Store,16,49,Casual Gym-Goer,,9.18281E+11
+CUST1742,36,Male,North Matthewberg,11-05-2023,277.82,9.7,30-08-2024,Running Shoes,In-Store,16,121,Casual Gym-Goer,,9.18281E+11
+CUST1743,41,Other,Shawhaven,22-01-2024,108.86,6.8,22-08-2024,Running Shoes,In-Store,11,108,Casual Gym-Goer,,9.18281E+11
+CUST1744,31,Other,Daviston,05-11-2020,215.64,7.7,26-06-2021,Supplements,In-Store,14,34,Health Conscious Buyer,,9.18281E+11
+CUST1745,49,Female,Lake Lisaport,25-10-2023,158.37,7.3,02-08-2024,Running Shoes,Online,15,72,Casual Gym-Goer,,9.18281E+11
+CUST1746,47,Other,Williamview,21-09-2024,169.76,9.8,22-11-2024,Yoga Accessories,In-Store,17,109,General Buyer,,9.18281E+11
+CUST1747,30,Male,North Richardmouth,15-08-2020,470.76,3.8,01-11-2021,Running Shoes,Online,3,133,Casual Gym-Goer,,9.18281E+11
+CUST1748,60,Other,Cassandraton,01-02-2024,77.22,4.1,28-02-2024,Training Wear,In-Store,5,50,General Buyer,,9.18281E+11
+CUST1749,39,Male,North Susan,07-06-2021,425.13,4.2,19-09-2021,Gym Gear,Online,15,148,Casual Gym-Goer,,9.18281E+11
+CUST1750,55,Female,North Matthewberg,14-05-2022,398.96,6.5,09-02-2025,Yoga Accessories,Online,15,103,General Buyer,,9.18281E+11
+CUST1751,49,Other,South Aaron,23-06-2023,90.74,4.7,30-03-2024,Running Shoes,Online,15,160,Casual Gym-Goer,,9.18281E+11
+CUST1752,26,Male,New Kellystad,13-08-2023,374.14,8.3,26-10-2024,Yoga Accessories,In-Store,5,173,General Buyer,,9.18281E+11
+CUST1753,38,Male,East Nathaniel,19-08-2020,318.54,1.1,08-12-2021,Running Shoes,Online,14,169,Casual Gym-Goer,,9.18281E+11
+CUST1754,49,Female,Mortonside,08-03-2024,145.6,3.6,21-12-2024,Training Wear,In-Store,1,30,General Buyer,,9.18281E+11
+CUST1755,42,Female,New Mariotown,10-07-2023,429.38,4.5,18-06-2024,Running Shoes,In-Store,5,77,Casual Gym-Goer,,9.18281E+11
+CUST1756,63,Male,Taylorburgh,04-01-2021,226.73,3.3,07-03-2022,Yoga Accessories,Online,3,125,General Buyer,,9.18281E+11
+CUST1757,60,Other,Davidstad,10-11-2024,278.91,4.8,20-01-2025,Training Wear,In-Store,16,67,Casual Gym-Goer,,9.18281E+11
+CUST1758,49,Other,Samuelhaven,29-09-2023,316.13,3.7,30-05-2024,Supplements,Online,1,11,Fitness Enthusiast,,9.18281E+11
+CUST1759,26,Female,East Donna,23-09-2022,408.59,5.9,15-10-2023,Supplements,Online,3,91,Fitness Enthusiast,,9.18281E+11
+CUST1760,44,Female,Lake Roberto,28-04-2021,337.4,2.6,07-06-2021,Supplements,In-Store,2,29,Fitness Enthusiast,,9.18281E+11
+CUST1761,39,Male,New Roberttown,10-12-2021,278.44,0.6,24-01-2024,Yoga Accessories,Online,8,120,General Buyer,,9.18281E+11
+CUST1762,55,Male,New Mariotown,05-10-2024,201.31,4,04-03-2025,Training Wear,In-Store,15,172,Casual Gym-Goer,,9.18281E+11
+CUST1763,31,Female,Stevenland,19-02-2025,261.33,7.7,02-03-2025,Supplements,In-Store,19,111,Health Conscious Buyer,,9.18281E+11
+CUST1764,30,Female,Sarahborough,02-08-2022,426.72,7.9,10-09-2023,Training Wear,In-Store,9,76,General Buyer,,9.18281E+11
+CUST1765,54,Female,Coxberg,26-02-2024,319.79,9.6,10-08-2024,Training Wear,In-Store,18,17,Casual Gym-Goer,,9.18281E+11
+CUST1766,54,Other,North Richardmouth,15-10-2022,225.01,3.6,16-11-2024,Running Shoes,Online,16,110,Casual Gym-Goer,,9.18281E+11
+CUST1767,60,Other,New Mariotown,22-01-2022,116.04,4.1,31-07-2022,Training Wear,Online,17,4,Casual Gym-Goer,,9.18281E+11
+CUST1768,58,Other,North Sarabury,06-07-2021,434.1,5.9,19-02-2025,Gym Gear,Online,8,136,General Buyer,,9.18281E+11
+CUST1769,57,Female,Mooreport,27-12-2020,368.78,0.8,31-10-2024,Gym Gear,Online,14,38,Casual Gym-Goer,,9.18281E+11
+CUST1770,65,Other,Evanmouth,29-10-2021,164.13,4.5,10-11-2024,Supplements,In-Store,20,105,Health Conscious Buyer,,9.18281E+11
+CUST1771,35,Female,Johnfurt,22-02-2024,97.08,6.9,30-04-2024,Gym Gear,Online,7,49,General Buyer,,9.18281E+11
+CUST1772,19,Male,New Stephanie,28-01-2023,242.8,5.7,20-07-2024,Yoga Accessories,Online,20,51,General Buyer,,9.18281E+11
+CUST1773,28,Female,West Michael,28-11-2020,33.99,7.9,19-05-2023,Supplements,In-Store,20,124,Health Conscious Buyer,,9.18281E+11
+CUST1774,19,Male,Cassandraton,28-11-2022,170.67,3.1,30-07-2023,Running Shoes,Online,11,23,Casual Gym-Goer,,9.18281E+11
+CUST1775,43,Other,West Michael,02-11-2021,133.3,5.8,18-03-2025,Training Wear,In-Store,16,148,Casual Gym-Goer,,9.18281E+11
+CUST1776,51,Female,Stevenland,08-06-2023,444.59,2.5,07-07-2024,Running Shoes,Online,10,99,Casual Gym-Goer,,9.18281E+11
+CUST1777,65,Other,East Courtneychester,07-04-2022,469.04,2.3,12-10-2022,Running Shoes,In-Store,6,112,Casual Gym-Goer,,9.18281E+11
+CUST1778,44,Female,Shawhaven,25-01-2022,46.84,5.4,28-08-2022,Running Shoes,Online,17,174,Casual Gym-Goer,,9.18281E+11
+CUST1779,33,Female,Jacquelineland,16-05-2022,194.24,7.2,21-06-2024,Supplements,In-Store,20,155,Health Conscious Buyer,,9.18281E+11
+CUST1780,20,Other,Stewartland,31-07-2020,403.49,0.7,26-08-2023,Gym Gear,Online,17,163,Casual Gym-Goer,,9.18281E+11
+CUST1781,62,Female,Davidstad,26-01-2025,78.59,8.7,07-04-2025,Yoga Accessories,Online,0,100,General Buyer,,9.18281E+11
+CUST1782,34,Female,Herrerafurt,02-05-2024,469.43,7.6,10-03-2025,Supplements,In-Store,5,161,Fitness Enthusiast,,9.18281E+11
+CUST1783,38,Other,Lake Crystalbury,18-01-2025,398.87,2.9,12-02-2025,Running Shoes,Online,15,85,Casual Gym-Goer,,9.18281E+11
+CUST1784,63,Female,New Kellystad,02-02-2021,415.71,7,25-08-2021,Training Wear,In-Store,11,140,Casual Gym-Goer,,9.18281E+11
+CUST1785,65,Female,Gomezchester,27-12-2022,353.7,7.7,05-09-2024,Gym Gear,Online,20,102,Casual Gym-Goer,,9.18281E+11
+CUST1786,30,Other,New Stephanie,06-06-2024,170.59,1,27-12-2024,Gym Gear,In-Store,16,166,Casual Gym-Goer,,9.18281E+11
+CUST1787,26,Other,Davidstad,08-11-2023,216.95,9.4,21-09-2024,Yoga Accessories,Online,4,175,General Buyer,,9.18281E+11
+CUST1788,55,Female,Teresaburgh,01-04-2025,115.36,4.3,04-04-2025,Gym Gear,Online,12,146,Casual Gym-Goer,,9.18281E+11
+CUST1789,32,Male,New Roberttown,04-06-2021,463.09,6.5,09-10-2022,Gym Gear,In-Store,14,179,Casual Gym-Goer,,9.18281E+11
+CUST1790,28,Male,New Jeffrey,27-12-2020,316.64,6.1,25-10-2024,Gym Gear,In-Store,11,145,Casual Gym-Goer,,9.18281E+11
+CUST1791,25,Male,East Josephville,27-04-2024,272.4,7.8,16-01-2025,Yoga Accessories,Online,3,52,General Buyer,,9.18281E+11
+CUST1792,30,Female,Teresaburgh,04-10-2024,378.29,3.9,14-02-2025,Yoga Accessories,In-Store,19,72,General Buyer,,9.18281E+11
+CUST1793,64,Other,Jasonfort,13-06-2021,220.8,4.2,07-03-2025,Gym Gear,In-Store,9,60,General Buyer,,9.18281E+11
+CUST1794,57,Female,South Patrickmouth,17-01-2025,197.43,6.9,11-05-2025,Yoga Accessories,In-Store,0,82,General Buyer,,9.18281E+11
+CUST1795,62,Female,Davidstad,27-11-2021,121.86,4,03-03-2025,Yoga Accessories,Online,2,15,General Buyer,,9.18281E+11
+CUST1796,21,Female,East Courtneychester,15-06-2021,246.05,3.7,18-04-2023,Training Wear,In-Store,0,158,General Buyer,,9.18281E+11
+CUST1797,42,Female,West Andrewside,20-08-2024,342.21,1.5,10-09-2024,Training Wear,In-Store,18,43,Casual Gym-Goer,,9.18281E+11
+CUST1798,50,Female,North Jessicaland,31-05-2021,441.39,1.5,13-08-2023,Supplements,Online,4,80,Fitness Enthusiast,,9.18281E+11
+CUST1799,20,Male,Stevenland,29-08-2021,438.41,8.4,14-12-2022,Supplements,Online,9,67,Fitness Enthusiast,,9.18281E+11
+CUST1800,57,Female,North Sarabury,04-10-2021,170.24,8.9,12-06-2022,Supplements,Online,4,168,Health Conscious Buyer,,9.18281E+11
+CUST1801,58,Female,Lisatown,07-02-2023,110.68,0.7,23-01-2024,Gym Gear,In-Store,15,180,Casual Gym-Goer,,9.18281E+11
+CUST1802,47,Female,Port Keith,21-04-2023,497.7,9.3,25-04-2025,Running Shoes,Online,11,143,Marathon Trainer,,9.18281E+11
+CUST1803,49,Female,Stevenland,09-10-2024,74,7.3,27-01-2025,Gym Gear,In-Store,11,72,Casual Gym-Goer,,9.18281E+11
+CUST1804,29,Male,North Cynthiaview,11-01-2021,264.19,2.9,28-02-2023,Training Wear,In-Store,18,1,Casual Gym-Goer,,9.18281E+11
+CUST1805,51,Other,Adamsborough,10-01-2022,219.88,1,22-09-2024,Yoga Accessories,In-Store,10,174,General Buyer,,9.18281E+11
+CUST1806,61,Male,West Andrewside,16-01-2025,199.31,9.3,10-03-2025,Running Shoes,Online,4,117,Casual Gym-Goer,,9.18281E+11
+CUST1807,63,Other,East Jamesside,03-06-2021,237.95,9.6,29-01-2024,Training Wear,In-Store,10,167,General Buyer,,9.18281E+11
+CUST1808,57,Female,West Natashaport,07-12-2022,474.76,10,14-03-2025,Training Wear,In-Store,6,164,General Buyer,,9.18281E+11
+CUST1809,36,Female,Lake Roberto,25-02-2021,377.02,5.6,16-04-2023,Training Wear,Online,2,45,General Buyer,,9.18281E+11
+CUST1810,33,Female,Herrerafurt,16-10-2021,29.85,2.2,22-04-2024,Yoga Accessories,Online,9,167,General Buyer,,9.18281E+11
+CUST1811,27,Male,East Nathaniel,02-09-2021,255.61,4.4,25-05-2022,Supplements,In-Store,11,94,Health Conscious Buyer,,9.18281E+11
+CUST1812,50,Male,Taylorburgh,25-03-2023,233.81,4,27-05-2023,Supplements,Online,2,94,Health Conscious Buyer,,9.18281E+11
+CUST1813,57,Male,New David,07-08-2020,322.73,1.1,16-04-2021,Training Wear,Online,14,165,Casual Gym-Goer,,9.18281E+11
+CUST1814,61,Other,New Jessica,29-09-2020,466.72,5.4,30-12-2022,Training Wear,In-Store,9,20,General Buyer,,9.18281E+11
+CUST1815,48,Female,New Jessica,24-02-2022,492.41,6.9,31-07-2024,Supplements,In-Store,16,145,Fitness Enthusiast,,9.18281E+11
+CUST1816,21,Other,North Noahstad,26-11-2023,460.3,5.2,20-03-2025,Training Wear,Online,13,169,Casual Gym-Goer,,9.18281E+11
+CUST1817,64,Other,Tashatown,13-08-2020,190.62,5.9,07-11-2024,Training Wear,In-Store,3,118,General Buyer,,9.18281E+11
+CUST1818,29,Male,West Andrewside,31-12-2024,41.72,4.3,25-02-2025,Supplements,Online,18,171,Health Conscious Buyer,,9.18281E+11
+CUST1819,46,Other,Lake Nicoleview,05-12-2022,183.84,9.2,24-12-2024,Gym Gear,In-Store,5,154,General Buyer,,9.18281E+11
+CUST1820,34,Other,Lake Chad,10-06-2022,228.22,0.4,09-05-2025,Yoga Accessories,In-Store,0,122,General Buyer,,9.18281E+11
+CUST1821,47,Other,New Jeffrey,24-10-2023,437.01,9.7,11-06-2024,Training Wear,Online,9,157,General Buyer,,9.18281E+11
+CUST1822,41,Other,North Amandahaven,20-03-2024,482.31,6.8,15-05-2024,Supplements,In-Store,4,48,Fitness Enthusiast,,9.18281E+11
+CUST1823,25,Male,Bassport,13-11-2020,485.85,8.6,19-03-2022,Gym Gear,Online,20,61,Casual Gym-Goer,,9.18281E+11
+CUST1824,45,Other,Port Richard,05-02-2024,111.64,3.1,23-12-2024,Yoga Accessories,In-Store,15,29,General Buyer,,9.18281E+11
+CUST1825,28,Male,Williamview,23-06-2024,357.25,9.6,20-12-2024,Yoga Accessories,In-Store,14,51,General Buyer,,9.18281E+11
+CUST1826,36,Other,West Andrewside,03-02-2022,44.44,0.3,16-07-2023,Yoga Accessories,Online,15,152,General Buyer,,9.18281E+11
+CUST1827,64,Other,Port Colleenhaven,31-07-2021,37.77,4.1,28-11-2022,Training Wear,Online,7,135,General Buyer,,9.18281E+11
+CUST1828,19,Female,North Beth,28-01-2023,171.61,0.8,17-07-2024,Yoga Accessories,Online,3,165,General Buyer,,9.18281E+11
+CUST1829,40,Female,Bassport,01-10-2023,229.39,1.8,10-01-2024,Gym Gear,Online,11,129,Casual Gym-Goer,,9.18281E+11
+CUST1830,32,Other,Davidstad,06-07-2023,182.79,6.1,08-08-2024,Yoga Accessories,In-Store,9,99,General Buyer,,9.18281E+11
+CUST1831,44,Other,Lake Debbie,18-02-2025,372.6,8,28-02-2025,Gym Gear,In-Store,9,22,General Buyer,,9.18281E+11
+CUST1832,60,Female,Ramirezstad,27-01-2023,103.18,1.7,06-02-2024,Yoga Accessories,In-Store,13,126,General Buyer,,9.18281E+11
+CUST1833,37,Male,West Donald,29-04-2024,287.28,10,15-06-2024,Supplements,Online,11,44,Health Conscious Buyer,,9.18281E+11
+CUST1834,50,Male,Ericmouth,20-08-2022,182.11,1.3,18-07-2024,Gym Gear,In-Store,17,66,Casual Gym-Goer,,9.18281E+11
+CUST1835,39,Female,Hoffmanville,20-06-2022,42.4,8.8,24-01-2023,Supplements,In-Store,16,26,Health Conscious Buyer,,9.18281E+11
+CUST1836,63,Male,Sanchezfort,07-03-2021,403.51,9.6,24-05-2021,Running Shoes,In-Store,19,26,Casual Gym-Goer,,9.18281E+11
+CUST1837,53,Male,Mortonside,29-10-2022,70.6,6.4,16-06-2024,Gym Gear,Online,5,113,General Buyer,,9.18281E+11
+CUST1838,50,Female,Lake Matthew,01-12-2023,437.84,1.7,10-06-2024,Supplements,Online,4,51,Fitness Enthusiast,,9.18281E+11
+CUST1839,46,Female,Hoffmanville,19-09-2021,389.14,2.6,05-03-2025,Yoga Accessories,Online,9,21,General Buyer,,9.18281E+11
+CUST1840,35,Female,East Josephville,22-02-2023,382.33,3.7,21-06-2024,Gym Gear,In-Store,16,58,Casual Gym-Goer,,9.18281E+11
+CUST1841,26,Female,Lake Crystalbury,21-12-2021,460.65,9,20-03-2025,Training Wear,Online,0,2,General Buyer,,9.18281E+11
+CUST1842,63,Other,Ericmouth,18-09-2021,60.69,3.3,01-11-2023,Gym Gear,Online,1,9,General Buyer,,9.18281E+11
+CUST1843,60,Other,New Jessica,26-09-2024,453.21,0.8,26-03-2025,Training Wear,Online,13,174,Casual Gym-Goer,,9.18281E+11
+CUST1844,62,Other,East Nathaniel,07-08-2024,366.34,3.3,04-12-2024,Supplements,In-Store,8,156,Fitness Enthusiast,,9.18281E+11
+CUST1845,27,Other,New Jeffrey,03-08-2024,234.17,2.2,12-08-2024,Training Wear,Online,11,166,Casual Gym-Goer,,9.18281E+11
+CUST1846,43,Male,East Nathaniel,14-02-2021,60.45,5.5,21-02-2025,Yoga Accessories,In-Store,16,72,General Buyer,,9.18281E+11
+CUST1847,31,Male,North Deniseside,14-09-2023,284.86,5.3,10-10-2024,Gym Gear,In-Store,0,138,General Buyer,,9.18281E+11
+CUST1848,55,Female,East Courtneychester,31-03-2024,419.47,3.2,03-10-2024,Yoga Accessories,In-Store,1,66,General Buyer,,9.18281E+11
+CUST1849,58,Other,West Allison,10-03-2022,79.43,7.6,01-09-2024,Running Shoes,Online,9,1,Casual Gym-Goer,,9.18281E+11
+CUST1850,47,Female,East Courtneychester,12-05-2023,406.59,9.9,18-06-2023,Training Wear,In-Store,11,170,Casual Gym-Goer,,9.18281E+11
+CUST1851,63,Other,North Amandahaven,15-10-2020,87.19,3.9,08-03-2023,Gym Gear,In-Store,10,49,General Buyer,,9.18281E+11
+CUST1852,41,Female,New Kellystad,26-07-2024,90.35,4.4,15-03-2025,Yoga Accessories,In-Store,2,33,General Buyer,,9.18281E+11
+CUST1853,48,Male,Leeville,12-05-2024,57.47,6.8,30-08-2024,Yoga Accessories,Online,8,162,General Buyer,,9.18281E+11
+CUST1854,45,Female,East Mikeburgh,03-12-2024,466.9,5,04-12-2024,Yoga Accessories,In-Store,4,124,General Buyer,,9.18281E+11
+CUST1855,63,Female,Ramirezstad,09-04-2021,484.66,5.2,07-02-2023,Training Wear,In-Store,6,8,General Buyer,,9.18281E+11
+CUST1856,65,Male,Rodneyside,01-07-2021,197.28,9.5,01-04-2025,Training Wear,Online,3,146,General Buyer,,9.18281E+11
+CUST1857,36,Male,North Sarabury,10-08-2022,93.59,3.8,29-02-2024,Supplements,Online,9,36,Health Conscious Buyer,,9.18281E+11
+CUST1858,27,Other,North Micheleland,15-10-2023,43.35,9,25-07-2024,Supplements,In-Store,5,125,Health Conscious Buyer,,9.18281E+11
+CUST1859,18,Male,Saramouth,28-09-2020,187.35,8.7,24-02-2024,Yoga Accessories,Online,18,115,General Buyer,,9.18281E+11
+CUST1860,39,Female,North Richardmouth,16-10-2020,420.54,8.4,12-06-2022,Gym Gear,In-Store,16,115,Casual Gym-Goer,,9.18281E+11
+CUST1861,60,Female,New Jessica,11-06-2023,435.85,3.4,13-08-2024,Training Wear,Online,12,101,Casual Gym-Goer,,9.18281E+11
+CUST1862,39,Other,Robinsonshire,24-10-2022,479.88,8.9,15-02-2023,Supplements,In-Store,5,146,Fitness Enthusiast,,9.18281E+11
+CUST1863,58,Other,New Stephanie,24-08-2023,289.3,1.4,18-09-2024,Training Wear,In-Store,6,138,General Buyer,,9.18281E+11
+CUST1864,54,Male,Mooreport,10-03-2024,270.44,7.6,11-05-2025,Training Wear,In-Store,3,136,General Buyer,,9.18281E+11
+CUST1865,29,Male,South Aaron,27-09-2022,397.64,2.6,03-05-2025,Training Wear,Online,2,155,General Buyer,,9.18281E+11
+CUST1866,38,Female,Shawhaven,15-05-2021,41.59,8.6,30-11-2021,Running Shoes,Online,13,6,Casual Gym-Goer,,9.18281E+11
+CUST1867,51,Female,Samuelhaven,07-03-2021,143.45,1.3,08-11-2022,Running Shoes,In-Store,9,65,Casual Gym-Goer,,9.18281E+11
+CUST1868,23,Male,New Stephanie,14-07-2023,477.04,6.9,22-03-2025,Running Shoes,Online,5,14,Marathon Trainer,,9.18281E+11
+CUST1869,37,Female,New Kellystad,30-03-2023,173.62,4.2,05-06-2024,Supplements,Online,12,30,Health Conscious Buyer,,9.18281E+11
+CUST1870,21,Male,East Courtneychester,20-06-2023,381.02,5.9,26-01-2025,Yoga Accessories,Online,3,81,General Buyer,,9.18281E+11
+CUST1871,47,Other,Lake Crystalbury,02-08-2021,51.42,0.5,07-06-2022,Gym Gear,In-Store,8,150,General Buyer,,9.18281E+11
+CUST1872,61,Male,South Patrickmouth,08-09-2024,386.23,6.6,10-02-2025,Gym Gear,Online,18,21,Casual Gym-Goer,,9.18281E+11
+CUST1873,58,Other,West Donald,11-08-2024,395.78,1.6,26-08-2024,Training Wear,In-Store,7,108,General Buyer,,9.18281E+11
+CUST1874,53,Female,Robinsonshire,28-09-2020,20.48,4.8,26-01-2021,Training Wear,Online,20,0,Casual Gym-Goer,,9.18281E+11
+CUST1875,21,Female,Danielchester,10-07-2021,306.98,8.4,22-07-2024,Yoga Accessories,Online,20,130,General Buyer,,9.18281E+11
+CUST1876,36,Male,South Noah,11-03-2023,374.81,5.7,15-03-2025,Supplements,In-Store,12,35,Fitness Enthusiast,,9.18281E+11
+CUST1877,64,Other,South Aaron,10-10-2024,441.57,2.3,05-04-2025,Training Wear,Online,10,115,General Buyer,,9.18281E+11
+CUST1878,35,Male,Stewartland,16-08-2021,491.85,3.5,14-03-2024,Yoga Accessories,Online,0,34,General Buyer,,9.18281E+11
+CUST1879,59,Male,Port Jacobland,28-09-2024,248.73,9,21-11-2024,Gym Gear,Online,17,180,Casual Gym-Goer,,9.18281E+11
+CUST1880,49,Female,Port Richard,23-02-2023,58.95,8.8,01-07-2024,Running Shoes,In-Store,14,90,Casual Gym-Goer,,9.18281E+11
+CUST1881,42,Other,West Allison,27-09-2021,205.64,8.4,30-05-2023,Running Shoes,In-Store,14,49,Casual Gym-Goer,,9.18281E+11
+CUST1882,46,Male,Coxberg,26-11-2022,376.71,7.6,01-05-2024,Supplements,In-Store,2,160,Fitness Enthusiast,,9.18281E+11
+CUST1883,37,Other,Coxberg,03-09-2024,132.44,5,19-03-2025,Supplements,In-Store,8,180,Health Conscious Buyer,,9.18281E+11
+CUST1884,63,Other,West Donald,19-11-2024,23.42,9.8,22-02-2025,Yoga Accessories,In-Store,8,126,General Buyer,,9.18281E+11
+CUST1885,28,Other,Jasonfort,22-02-2025,336.72,5.7,23-03-2025,Training Wear,In-Store,2,16,General Buyer,,9.18281E+11
+CUST1886,26,Female,Mooreport,25-05-2024,430.63,8.8,06-04-2025,Supplements,In-Store,0,177,Fitness Enthusiast,,9.18281E+11
+CUST1887,61,Other,South David,01-07-2020,141.4,5.7,19-08-2023,Yoga Accessories,In-Store,13,166,General Buyer,,9.18281E+11
+CUST1888,21,Female,New David,06-03-2023,425.28,4.2,23-08-2023,Running Shoes,Online,15,11,Casual Gym-Goer,,9.18281E+11
+CUST1889,64,Male,Lisatown,26-11-2023,153.41,4.3,21-02-2025,Yoga Accessories,Online,0,85,General Buyer,,9.18281E+11
+CUST1890,23,Other,East Jessetown,22-12-2022,495.33,2.4,01-02-2023,Yoga Accessories,In-Store,7,84,General Buyer,,9.18281E+11
+CUST1891,37,Male,South Dianeshire,24-05-2024,320.14,0.5,04-09-2024,Yoga Accessories,In-Store,18,85,General Buyer,,9.18281E+11
+CUST1892,34,Male,Lake Chad,09-04-2025,247.32,9.6,20-04-2025,Running Shoes,Online,16,18,Casual Gym-Goer,,9.18281E+11
+CUST1893,56,Other,Sanchezfort,17-10-2020,386.77,6.3,17-11-2024,Training Wear,In-Store,2,8,General Buyer,,9.18281E+11
+CUST1894,42,Female,East Mikeburgh,22-10-2021,51.21,1.4,14-01-2024,Yoga Accessories,In-Store,9,110,General Buyer,,9.18281E+11
+CUST1895,22,Male,North Amandahaven,05-08-2023,46.78,0.7,27-11-2023,Yoga Accessories,Online,3,105,General Buyer,,9.18281E+11
+CUST1896,32,Other,Stewartland,02-06-2022,319.52,4.6,21-07-2022,Yoga Accessories,Online,19,86,General Buyer,,9.18281E+11
+CUST1897,59,Other,East Jessetown,24-03-2025,237.96,3.4,03-04-2025,Gym Gear,In-Store,3,17,General Buyer,,9.18281E+11
+CUST1898,55,Male,North Beth,24-12-2021,80.47,5.2,22-01-2022,Supplements,Online,15,113,Health Conscious Buyer,,9.18281E+11
+CUST1899,29,Male,West Michael,10-02-2024,402.57,0.8,10-10-2024,Supplements,Online,16,91,Fitness Enthusiast,,9.18281E+11
+CUST1900,37,Other,East Nicholasfurt,03-12-2023,392.24,1.6,29-03-2024,Supplements,Online,9,2,Fitness Enthusiast,,9.18281E+11
+CUST1901,51,Other,Stewartland,15-11-2023,345.58,0.8,04-05-2025,Training Wear,In-Store,13,51,Casual Gym-Goer,,9.18281E+11
+CUST1902,58,Male,Ericmouth,03-02-2022,183.94,6.7,02-11-2023,Yoga Accessories,Online,18,85,General Buyer,,9.18281E+11
+CUST1903,57,Female,North Micheleland,17-08-2024,177.74,1.2,11-04-2025,Running Shoes,Online,7,163,Casual Gym-Goer,,9.18281E+11
+CUST1904,32,Other,Daviston,15-05-2024,243.94,2.3,18-04-2025,Yoga Accessories,Online,12,47,General Buyer,,9.18281E+11
+CUST1905,18,Female,East Jill,20-11-2020,55.39,0.5,23-01-2022,Running Shoes,In-Store,9,161,Casual Gym-Goer,,9.18281E+11
+CUST1906,55,Female,Robinsonshire,08-10-2024,488.15,2.2,27-12-2024,Supplements,In-Store,7,44,Fitness Enthusiast,,9.18281E+11
+CUST1907,39,Other,South Patrickmouth,16-02-2025,105.7,0.4,19-03-2025,Supplements,In-Store,0,35,Health Conscious Buyer,,9.18281E+11
+CUST1908,42,Other,Port Keith,05-06-2024,182.42,2.3,26-12-2024,Yoga Accessories,In-Store,11,169,General Buyer,,9.18281E+11
+CUST1909,28,Other,New Brooke,25-07-2023,443.2,8.8,24-03-2024,Running Shoes,In-Store,4,33,Marathon Trainer,,9.18281E+11
+CUST1910,30,Male,Port Richard,31-10-2021,201.53,3.9,15-10-2023,Training Wear,Online,20,11,Casual Gym-Goer,,9.18281E+11
+CUST1911,57,Other,Jasonfort,22-11-2024,430.13,3.1,27-01-2025,Gym Gear,Online,7,71,General Buyer,,9.18281E+11
+CUST1912,26,Other,Lake Leeton,02-01-2025,445.2,2.3,11-03-2025,Running Shoes,Online,19,130,Casual Gym-Goer,,9.18281E+11
+CUST1913,42,Other,North Matthewberg,10-08-2022,264.4,5.1,14-03-2025,Yoga Accessories,In-Store,10,134,General Buyer,,9.18281E+11
+CUST1914,62,Female,East Josephville,23-06-2024,478.76,4.8,05-09-2024,Training Wear,Online,20,149,Casual Gym-Goer,,9.18281E+11
+CUST1915,59,Male,West Donald,15-06-2022,125.37,2.2,22-08-2023,Gym Gear,Online,6,96,General Buyer,,9.18281E+11
+CUST1916,54,Male,Lake Larry,07-02-2025,142.17,1,07-03-2025,Running Shoes,Online,14,58,Casual Gym-Goer,,9.18281E+11
+CUST1917,55,Male,Shieldston,09-04-2022,265.89,3.5,15-07-2023,Yoga Accessories,Online,13,127,General Buyer,,9.18281E+11
+CUST1918,38,Female,Samuelhaven,25-10-2022,31.86,4.5,11-09-2023,Supplements,In-Store,11,75,Health Conscious Buyer,,9.18281E+11
+CUST1919,50,Other,East Nicholasfurt,08-07-2024,328.95,7.9,08-11-2024,Gym Gear,In-Store,3,9,General Buyer,,9.18281E+11
+CUST1920,52,Male,North John,09-06-2024,114.39,3.4,22-10-2024,Supplements,Online,6,35,Health Conscious Buyer,,9.18281E+11
+CUST1921,63,Other,East Nicholasfurt,15-02-2025,457.94,0.3,03-05-2025,Supplements,Online,11,103,Fitness Enthusiast,,9.18281E+11
+CUST1922,43,Other,North Matthewberg,07-09-2022,334.55,4.8,28-11-2023,Training Wear,In-Store,12,53,Casual Gym-Goer,,9.18281E+11
+CUST1923,48,Male,North Sarabury,24-05-2021,301.76,5.6,31-10-2023,Yoga Accessories,Online,10,80,General Buyer,,9.18281E+11
+CUST1924,30,Female,Hoffmanville,23-12-2024,472.13,4.3,06-03-2025,Yoga Accessories,Online,17,35,General Buyer,,9.18281E+11
+CUST1925,54,Male,New Stephanie,18-09-2023,472.81,0.3,12-06-2024,Supplements,Online,7,175,Fitness Enthusiast,,9.18281E+11
+CUST1926,43,Other,Port Richard,09-08-2021,163.83,6,03-11-2022,Training Wear,In-Store,4,84,General Buyer,,9.18281E+11
+CUST1927,54,Other,Port Jacobland,18-09-2020,458.6,5.8,28-02-2023,Yoga Accessories,Online,6,16,General Buyer,,9.18281E+11
+CUST1928,52,Female,Jasonfort,11-01-2021,247.89,3.4,23-12-2023,Yoga Accessories,Online,2,172,General Buyer,,9.18281E+11
+CUST1929,53,Male,Lake Debra,14-02-2024,416.71,6.1,31-08-2024,Running Shoes,In-Store,6,98,Marathon Trainer,,9.18281E+11
+CUST1930,36,Male,Daviston,07-06-2024,159.73,5.3,29-08-2024,Yoga Accessories,In-Store,11,43,General Buyer,,9.18281E+11
+CUST1931,38,Female,West Andrewside,28-01-2022,95.38,1.3,13-05-2024,Training Wear,Online,15,99,Casual Gym-Goer,,9.18281E+11
+CUST1932,31,Male,West Donald,31-08-2022,168.68,8.2,20-01-2025,Yoga Accessories,In-Store,19,79,General Buyer,,9.18281E+11
+CUST1933,55,Male,Mortonside,01-09-2022,364.05,4.7,02-04-2023,Gym Gear,In-Store,4,102,General Buyer,,9.18281E+11
+CUST1934,56,Male,South Todd,15-04-2021,177.87,5.8,27-11-2023,Yoga Accessories,Online,14,23,General Buyer,,9.18281E+11
+CUST1935,36,Other,Gomezchester,24-05-2022,186.46,8.5,04-06-2023,Supplements,Online,19,44,Health Conscious Buyer,,9.18281E+11
+CUST1936,44,Male,East Lydiamouth,15-10-2020,451.98,7.4,21-04-2025,Yoga Accessories,Online,5,24,General Buyer,,9.18281E+11
+CUST1937,43,Other,Robinsonshire,12-04-2022,135.05,8.7,28-12-2024,Supplements,Online,2,55,Health Conscious Buyer,,9.18281E+11
+CUST1938,49,Female,Evanmouth,04-05-2022,285.36,10,24-07-2022,Running Shoes,In-Store,16,83,Casual Gym-Goer,,9.18281E+11
+CUST1939,44,Female,Lake Mark,18-03-2021,141.33,5.2,20-12-2022,Yoga Accessories,In-Store,2,172,General Buyer,,9.18281E+11
+CUST1940,65,Female,Samuelhaven,03-03-2023,184.96,4.1,05-03-2025,Gym Gear,Online,1,29,General Buyer,,9.18281E+11
+CUST1941,63,Male,West Natashaport,19-03-2021,341.74,4.7,10-02-2024,Yoga Accessories,In-Store,2,62,General Buyer,,9.18281E+11
+CUST1942,63,Female,West Michael,12-07-2021,245.98,2.9,20-07-2021,Gym Gear,In-Store,0,45,General Buyer,,9.18281E+11
+CUST1943,36,Male,Port Richard,14-01-2025,375.89,1.9,13-02-2025,Running Shoes,Online,4,45,Casual Gym-Goer,,9.18281E+11
+CUST1944,31,Other,Lake Debra,27-10-2023,448.49,5.4,17-03-2025,Yoga Accessories,In-Store,20,164,General Buyer,,9.18281E+11
+CUST1945,60,Other,Stewartland,27-05-2024,450.56,4,28-11-2024,Supplements,Online,1,12,Fitness Enthusiast,,9.18281E+11
+CUST1946,42,Male,South Patrickmouth,20-01-2022,199.83,2.5,08-04-2025,Running Shoes,In-Store,13,3,Casual Gym-Goer,,9.18281E+11
+CUST1947,39,Male,Davidstad,20-10-2022,341.1,2.4,01-03-2024,Running Shoes,In-Store,5,131,Casual Gym-Goer,,9.18281E+11
+CUST1948,24,Female,West Natashaport,14-10-2022,289.79,2.1,13-01-2023,Gym Gear,Online,13,54,Casual Gym-Goer,,9.18281E+11
+CUST1949,24,Female,West Natashaport,12-02-2021,103.34,4.1,22-11-2023,Supplements,In-Store,12,56,Health Conscious Buyer,,9.18281E+11
+CUST1950,22,Other,South Aaron,29-03-2025,331.97,3.8,09-04-2025,Running Shoes,In-Store,13,153,Casual Gym-Goer,,9.18281E+11
+CUST1951,49,Male,East Josephville,28-11-2024,277.37,9.9,20-04-2025,Training Wear,In-Store,8,153,General Buyer,,9.18281E+11
+CUST1952,38,Other,Bassport,03-09-2020,206.51,9.3,28-02-2022,Gym Gear,Online,5,176,General Buyer,,9.18281E+11
+CUST1953,38,Other,East Jamesside,30-11-2023,52.41,0.4,14-04-2024,Training Wear,Online,12,59,Casual Gym-Goer,,9.18281E+11
+CUST1954,50,Other,Lake Lisaport,31-08-2020,494.42,2.5,16-01-2024,Training Wear,In-Store,9,109,General Buyer,,9.18281E+11
+CUST1955,33,Other,Cassandraton,28-07-2024,48.76,3.9,08-10-2024,Supplements,In-Store,4,164,Health Conscious Buyer,,9.18281E+11
+CUST1956,20,Male,West Juan,27-10-2022,307.08,9.5,24-12-2022,Supplements,In-Store,8,10,Fitness Enthusiast,,9.18281E+11
+CUST1957,51,Female,Johnfurt,08-06-2020,410.1,7.6,22-12-2022,Gym Gear,Online,10,138,General Buyer,,9.18281E+11
+CUST1958,21,Other,South Patrickmouth,10-03-2025,404.7,7,07-05-2025,Gym Gear,Online,16,113,Casual Gym-Goer,,9.18281E+11
+CUST1959,58,Male,Ericmouth,09-04-2021,437.54,0.9,21-03-2025,Gym Gear,In-Store,20,52,Casual Gym-Goer,,9.18281E+11
+CUST1960,26,Male,East Lydiamouth,17-03-2023,304.46,8.3,01-06-2024,Gym Gear,In-Store,16,119,Casual Gym-Goer,,9.18281E+11
+CUST1961,37,Male,West Juan,22-03-2024,114.82,4.4,03-05-2025,Training Wear,In-Store,9,114,General Buyer,,9.18281E+11
+CUST1962,58,Male,Danielchester,23-07-2024,433.96,4.9,13-09-2024,Supplements,Online,12,112,Fitness Enthusiast,,9.18281E+11
+CUST1963,45,Other,South David,24-08-2024,372.77,7.7,21-02-2025,Yoga Accessories,In-Store,12,21,General Buyer,,9.18281E+11
+CUST1964,37,Other,Port Richard,05-09-2022,93.34,7.3,01-07-2023,Supplements,Online,14,72,Health Conscious Buyer,,9.18281E+11
+CUST1965,42,Other,Port Jacobland,25-04-2021,250.81,3.5,20-09-2022,Yoga Accessories,In-Store,4,1,General Buyer,,9.18281E+11
+CUST1966,18,Other,Lake Matthew,27-09-2021,368.17,5,05-11-2024,Yoga Accessories,Online,11,78,General Buyer,,9.18281E+11
+CUST1967,59,Other,North Noahstad,05-04-2024,216.22,0.6,21-10-2024,Running Shoes,Online,18,111,Casual Gym-Goer,,9.18281E+11
+CUST1968,34,Other,East Donna,10-12-2021,264.61,5,31-12-2021,Supplements,In-Store,20,108,Health Conscious Buyer,,9.18281E+11
+CUST1969,65,Male,South Patrickmouth,24-03-2023,249.31,9.2,24-06-2024,Supplements,In-Store,20,154,Health Conscious Buyer,,9.18281E+11
+CUST1970,47,Other,Jacquelineland,10-03-2025,142.06,6.1,28-03-2025,Gym Gear,In-Store,3,164,General Buyer,,9.18281E+11
+CUST1971,63,Female,West Andrewside,07-11-2021,358.91,9.7,13-06-2024,Running Shoes,In-Store,13,109,Casual Gym-Goer,,9.18281E+11
+CUST1972,34,Other,East Nathaniel,22-10-2023,260.31,5.4,18-09-2024,Yoga Accessories,Online,13,22,General Buyer,,9.18281E+11
+CUST1973,24,Other,North Beth,27-09-2024,392.81,3.6,01-02-2025,Gym Gear,Online,6,101,General Buyer,,9.18281E+11
+CUST1974,62,Female,North Judithbury,04-02-2021,493.77,8.2,03-07-2024,Running Shoes,In-Store,2,106,Marathon Trainer,,9.18281E+11
+CUST1975,51,Female,Lake Debbie,03-03-2021,158.4,4.4,15-12-2021,Gym Gear,Online,5,50,General Buyer,,9.18281E+11
+CUST1976,49,Male,Mortonside,21-07-2021,475.27,4.6,01-08-2023,Gym Gear,In-Store,6,46,General Buyer,,9.18281E+11
+CUST1977,30,Female,Lake Crystalbury,10-02-2023,231.55,9.1,01-03-2024,Running Shoes,In-Store,2,96,Casual Gym-Goer,,9.18281E+11
+CUST1978,25,Female,Ericmouth,01-06-2020,184.23,5.9,20-08-2022,Yoga Accessories,Online,3,68,General Buyer,,9.18281E+11
+CUST1979,18,Other,Lake Leeton,15-08-2023,398.82,0.6,13-02-2024,Gym Gear,In-Store,12,68,Casual Gym-Goer,,9.18281E+11
+CUST1980,49,Female,North Matthewberg,27-02-2024,181.77,4.4,21-09-2024,Supplements,Online,10,92,Health Conscious Buyer,,9.18281E+11
+CUST1981,60,Female,Samuelhaven,01-03-2023,313.19,9.8,12-06-2024,Supplements,In-Store,0,178,Fitness Enthusiast,,9.18281E+11
+CUST1982,43,Other,West Michael,25-03-2025,32.33,1.4,25-03-2025,Training Wear,Online,7,158,General Buyer,,9.18281E+11
+CUST1983,61,Other,North Richardmouth,01-08-2022,267.16,6.7,10-02-2024,Running Shoes,Online,0,11,Marathon Trainer,,9.18281E+11
+CUST1984,65,Female,North Amandahaven,15-05-2022,233.27,6.1,19-08-2022,Yoga Accessories,In-Store,11,121,General Buyer,,9.18281E+11
+CUST1985,60,Other,New Kellystad,13-05-2021,372.45,3.1,05-05-2023,Gym Gear,In-Store,16,129,Casual Gym-Goer,,9.18281E+11
+CUST1986,20,Male,Stevenland,20-12-2022,402.47,3.2,25-08-2023,Training Wear,Online,5,29,General Buyer,,9.18281E+11
+CUST1987,48,Other,East Nicholasfurt,22-10-2023,135.63,2.3,06-04-2025,Running Shoes,In-Store,13,7,Casual Gym-Goer,,9.18281E+11
+CUST1988,28,Female,Martinezbury,19-08-2024,387.83,2.4,17-12-2024,Supplements,Online,3,136,Fitness Enthusiast,,9.18281E+11
+CUST1989,58,Other,Taylorburgh,10-05-2021,63.41,7,27-01-2024,Gym Gear,In-Store,20,97,Casual Gym-Goer,,9.18281E+11
+CUST1990,59,Other,Rodneyside,13-11-2022,483.8,4.5,05-06-2024,Gym Gear,In-Store,8,22,General Buyer,,9.18281E+11
+CUST1991,25,Male,North Jessicaland,28-03-2022,375.48,9.4,03-03-2023,Running Shoes,Online,4,97,Marathon Trainer,,9.18281E+11
+CUST1992,54,Other,North Judithbury,29-06-2021,169.18,6,11-07-2023,Gym Gear,Online,13,93,Casual Gym-Goer,,9.18281E+11
+CUST1993,61,Male,North Sarabury,29-08-2021,338.6,6,05-08-2023,Running Shoes,Online,0,117,Marathon Trainer,,9.18281E+11
+CUST1994,38,Male,Port Colleenhaven,15-07-2023,421.86,5.1,01-06-2024,Yoga Accessories,In-Store,19,170,General Buyer,,9.18281E+11
+CUST1995,62,Male,North Susan,11-01-2025,173.67,5.1,12-04-2025,Running Shoes,Online,18,55,Casual Gym-Goer,,9.18281E+11
+CUST1996,49,Female,Lake Lisaport,06-12-2024,483.92,0.8,10-05-2025,Supplements,In-Store,6,57,Fitness Enthusiast,,9.18281E+11
+CUST1997,62,Other,Lisatown,20-03-2022,463.12,7.8,08-04-2023,Yoga Accessories,Online,9,168,General Buyer,,9.18281E+11
+CUST1998,28,Male,Saramouth,20-01-2021,208.3,4.3,07-11-2024,Yoga Accessories,Online,12,135,General Buyer,,9.18281E+11
+CUST1999,64,Female,Teresaburgh,06-11-2024,354.26,2.1,22-03-2025,Training Wear,Online,3,148,General Buyer,,9.18281E+11

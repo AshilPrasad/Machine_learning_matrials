@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cosmos Sports - AI Analytics Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .card {
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .card-header {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+        }
+        .result-section {
+            display: none;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Cosmos Sports AI Analytics</a>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <div class="row">
+            <!-- Customer Analysis Section -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <i class="fas fa-users"></i> Customer Analysis
+                    </div>
+                    <div class="card-body">
+                        <form id="customerForm">
+                            <div class="mb-3">
+                                <label for="customerId" class="form-label">Customer ID</label>
+                                <input type="text" class="form-control" id="customerId" required>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Analyze Customer</button>
+                        </form>
+                        <div id="customerLoading" class="loading">
+                            <i class="fas fa-spinner fa-spin"></i> Analyzing...
+                        </div>
+                        <div id="customerResults" class="result-section">
+                            <h5>Analysis Results</h5>
+                            <div id="customerData"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product Analysis Section -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <i class="fas fa-box"></i> Product Analysis
+                    </div>
+                    <div class="card-body">
+                        <form id="productForm">
+                            <div class="mb-3">
+                                <label for="productId" class="form-label">Product ID</label>
+                                <input type="text" class="form-control" id="productId" required>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Analyze Product</button>
+                        </form>
+                        <div id="productLoading" class="loading">
+                            <i class="fas fa-spinner fa-spin"></i> Analyzing...
+                        </div>
+                        <div id="productResults" class="result-section">
+                            <h5>Analysis Results</h5>
+                            <div id="productData"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Batch Analysis Section -->
+            <div class="col-12 mt-4">
+                <div class="card">
+                    <div class="card-header">
+                        <i class="fas fa-chart-bar"></i> Batch Analysis
+                    </div>
+                    <div class="card-body">
+                        <form id="batchForm">
+                            <div class="mb-3">
+                                <label class="form-label">Analysis Type</label>
+                                <select class="form-select" id="analysisType" required>
+                                    <option value="customers">Customers</option>
+                                    <option value="products">Products</option>
+                                </select>
+                            </div>
+                            <div class="mb-3">
+                                <label for="ids" class="form-label">IDs (comma-separated)</label>
+                                <input type="text" class="form-control" id="ids" required>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Run Batch Analysis</button>
+                        </form>
+                        <div id="batchLoading" class="loading">
+                            <i class="fas fa-spinner fa-spin"></i> Analyzing...
+                        </div>
+                        <div id="batchResults" class="result-section">
+                            <h5>Batch Analysis Results</h5>
+                            <div id="batchData"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Customer Analysis
+        document.getElementById('customerForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const customerId = document.getElementById('customerId').value;
+            const loading = document.getElementById('customerLoading');
+            const results = document.getElementById('customerResults');
+            const data = document.getElementById('customerData');
+
+            loading.style.display = 'block';
+            results.style.display = 'none';
+
+            try {
+                const response = await fetch('/api/batch-analysis', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        type: 'customers',
+                        ids: [customerId]
+                    })
+                });
+
+                const result = await response.json();
+                if (result.status === 'success') {
+                    const customerData = result.results[customerId];
+                    data.innerHTML = `
+                        <div class="alert alert-info">
+                            <h6>Churn Risk</h6>
+                            <p>Risk Level: ${customerData.churn_risk.risk_level}</p>
+                            <p>Probability: ${(customerData.churn_risk.churn_probability * 100).toFixed(2)}%</p>
+                        </div>
+                        <div class="alert alert-success">
+                            <h6>Lifetime Value</h6>
+                            <p>Current CLV: $${customerData.lifetime_value.current_clv.toFixed(2)}</p>
+                            <p>Predicted Future CLV: $${customerData.lifetime_value.predicted_future_clv.toFixed(2)}</p>
+                        </div>
+                        <div class="alert alert-warning">
+                            <h6>Recommended Products</h6>
+                            <ul>
+                                ${Object.entries(customerData.recommendations)
+                                    .map(([product, score]) => `<li>${product}: ${score.toFixed(2)}</li>`)
+                                    .join('')}
+                            </ul>
+                        </div>
+                    `;
+                } else {
+                    data.innerHTML = `<div class="alert alert-danger">${result.error}</div>`;
+                }
+            } catch (error) {
+                data.innerHTML = `<div class="alert alert-danger">Error: ${error.message}</div>`;
+            }
+
+            loading.style.display = 'none';
+            results.style.display = 'block';
+        });
+
+        // Product Analysis
+        document.getElementById('productForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const productId = document.getElementById('productId').value;
+            const loading = document.getElementById('productLoading');
+            const results = document.getElementById('productResults');
+            const data = document.getElementById('productData');
+
+            loading.style.display = 'block';
+            results.style.display = 'none';
+
+            try {
+                const response = await fetch('/api/batch-analysis', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        type: 'products',
+                        ids: [productId]
+                    })
+                });
+
+                const result = await response.json();
+                if (result.status === 'success') {
+                    const productData = result.results[productId];
+                    data.innerHTML = `
+                        <div class="alert alert-info">
+                            <h6>Pricing Analysis</h6>
+                            <p>Current Price: $${productData.pricing.current_price.toFixed(2)}</p>
+                            <p>Optimal Price: $${productData.pricing.optimal_price.toFixed(2)}</p>
+                            <p>Expected Profit Increase: $${productData.pricing.expected_profit_increase.toFixed(2)}</p>
+                        </div>
+                        <div class="alert alert-success">
+                            <h6>Inventory Forecast</h6>
+                            <p>Total Forecasted Demand: ${productData.inventory_forecast.total_forecasted_demand.toFixed(0)} units</p>
+                        </div>
+                    `;
+                } else {
+                    data.innerHTML = `<div class="alert alert-danger">${result.error}</div>`;
+                }
+            } catch (error) {
+                data.innerHTML = `<div class="alert alert-danger">Error: ${error.message}</div>`;
+            }
+
+            loading.style.display = 'none';
+            results.style.display = 'block';
+        });
+
+        // Batch Analysis
+        document.getElementById('batchForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const type = document.getElementById('analysisType').value;
+            const ids = document.getElementById('ids').value.split(',').map(id => id.trim());
+            const loading = document.getElementById('batchLoading');
+            const results = document.getElementById('batchResults');
+            const data = document.getElementById('batchData');
+
+            loading.style.display = 'block';
+            results.style.display = 'none';
+
+            try {
+                const response = await fetch('/api/batch-analysis', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        type: type,
+                        ids: ids
+                    })
+                });
+
+                const result = await response.json();
+                if (result.status === 'success') {
+                    let html = '';
+                    for (const [id, analysis] of Object.entries(result.results)) {
+                        html += `
+                            <div class="card mb-3">
+                                <div class="card-header">${type === 'customers' ? 'Customer' : 'Product'} ID: ${id}</div>
+                                <div class="card-body">
+                                    ${type === 'customers' ? `
+                                        <div class="alert alert-info">
+                                            <h6>Churn Risk</h6>
+                                            <p>Risk Level: ${analysis.churn_risk.risk_level}</p>
+                                            <p>Probability: ${(analysis.churn_risk.churn_probability * 100).toFixed(2)}%</p>
+                                        </div>
+                                        <div class="alert alert-success">
+                                            <h6>Lifetime Value</h6>
+                                            <p>Current CLV: $${analysis.lifetime_value.current_clv.toFixed(2)}</p>
+                                            <p>Predicted Future CLV: $${analysis.lifetime_value.predicted_future_clv.toFixed(2)}</p>
+                                        </div>
+                                    ` : `
+                                        <div class="alert alert-info">
+                                            <h6>Pricing Analysis</h6>
+                                            <p>Current Price: $${analysis.pricing.current_price.toFixed(2)}</p>
+                                            <p>Optimal Price: $${analysis.pricing.optimal_price.toFixed(2)}</p>
+                                        </div>
+                                        <div class="alert alert-success">
+                                            <h6>Inventory Forecast</h6>
+                                            <p>Total Forecasted Demand: ${analysis.inventory_forecast.total_forecasted_demand.toFixed(0)} units</p>
+                                        </div>
+                                    `}
+                                </div>
+                            </div>
+                        `;
+                    }
+                    data.innerHTML = html;
+                } else {
+                    data.innerHTML = `<div class="alert alert-danger">${result.error}</div>`;
+                }
+            } catch (error) {
+                data.innerHTML = `<div class="alert alert-danger">Error: ${error.message}</div>`;
+            }
+
+            loading.style.display = 'none';
+            results.style.display = 'block';
+        });
+    </script>
+</body>
+</html> 

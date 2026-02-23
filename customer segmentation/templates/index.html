@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Customer Analytics Dashboard</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #6dd5ed, #2193b0);
+      color: white;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .section {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 15px;
+      padding: 20px;
+      margin-bottom: 30px;
+    }
+
+    .section h1 {
+      margin-top: 0;
+      text-align: center;
+    }
+
+    input[type="file"], select {
+      width: 100%;
+      padding: 12px;
+      margin-top: 10px;
+      border-radius: 10px;
+      border: none;
+      font-size: 1rem;
+      background-color: #f8f9fa;
+      color: #212529;
+    }
+
+    button {
+      margin-top: 15px;
+      padding: 10px 25px;
+      background-color: #ffc107;
+      border: none;
+      border-radius: 10px;
+      font-weight: bold;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    button:hover {
+      background-color: #ffca2c;
+    }
+
+    .output-panel {
+      margin-top: 30px;
+      background: white;
+      color: black;
+      border-radius: 15px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      max-height: 600px;
+    }
+
+    .output-title {
+      font-size: 1.25rem;
+      font-weight: bold;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+
+    .table-wrapper {
+      flex: 1;
+      overflow-x: auto;
+      overflow-y: auto;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: auto;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: center;
+      border: 1px solid #ddd;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    th {
+      background-color: #f2f2f2;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+
+    .download-btn-container {
+      margin-top: 15px;
+      text-align: center;
+    }
+
+    .download-btn-container a {
+      display: inline-block;
+      background: #ffc107;
+      color: black;
+      padding: 10px 25px;
+      border-radius: 10px;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    .download-btn-container a:hover {
+      background: #ffca2c;
+    }
+
+    .bundling-results {
+      background: white;
+      color: black;
+      border-radius: 15px;
+      padding: 20px;
+      margin-top: 20px;
+    }
+
+    .bundling-results h3 {
+      margin-top: 0;
+      color: #2193b0;
+    }
+
+    .product-list {
+      list-style: none;
+      padding: 0;
+    }
+
+    .product-list li {
+      padding: 8px;
+      margin: 5px 0;
+      background: #f8f9fa;
+      border-radius: 5px;
+    }
+
+    .risk-High {
+      background-color: #f8d7da !important;
+      color: #721c24 !important;
+    }
+
+    .risk-Medium {
+      background-color: #fff3cd !important;
+      color: #856404 !important;
+    }
+
+    .risk-Low {
+      background-color: #d4edda !important;
+      color: #155724 !important;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Customer Segmentation Section -->
+    <div class="section">
+      <h1>Customer Segmentation</h1>
+      <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".csv, .xls, .xlsx" required />
+        <br />
+        <button type="submit">Process Customer Data</button>
+      </form>
+    </div>
+
+    <!-- Product Bundling Section -->
+    <div class="section">
+      <h1>Product Bundling</h1>
+      <form method="POST">
+        <select name="product" required>
+          <option value="" disabled selected>Select a product</option>
+          {% for product in product_list %}
+            <option value="{{ product }}">{{ product }}</option>
+          {% endfor %}
+        </select>
+        <br />
+        <button type="submit">Get Bundle Recommendations</button>
+      </form>
+    </div>
+
+    {% if table %}
+    <div class="output-panel">
+      <div class="output-title">Processed Customer Loyalty + Churn Data</div>
+      <div class="table-wrapper">
+        {{ table|safe }}
+      </div>
+      <div class="download-btn-container">
+        <a href="{{ url_for('download_csv') }}">Download CSV</a>
+      </div>
+    </div>
+    {% endif %}
+
+    {% if bundling_results %}
+    <div class="bundling-results">
+      <h3>Bundle Recommendations for: {{ bundling_results.input_product }}</h3>
+      {% if bundling_results.recommended_products %}
+        <ul class="product-list">
+          {% for product in bundling_results.recommended_products %}
+            <li>{{ product }}</li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p>No bundle recommendations found for this product.</p>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+
+  <script>
+    // Optional: Highlight churn risk rows
+    document.querySelectorAll("table tr").forEach(row => {
+      const cells = row.children;
+      for (let i = 0; i < cells.length; i++) {
+        if (cells[i].innerText === "High") row.classList.add("risk-High");
+        if (cells[i].innerText === "Medium") row.classList.add("risk-Medium");
+        if (cells[i].innerText === "Low") row.classList.add("risk-Low");
+      }
+    });
+  </script>
+</body>
+</html>
